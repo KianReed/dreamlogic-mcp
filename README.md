@@ -1,6 +1,8 @@
-# 🌌 dreamlogic-mcp
+# 🌌 DreamLogic-MCP
 专业的周公解梦 MCP 服务端 | 让 AI 读懂古老的梦。支持全量结构化古籍数据检索。
-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![MCP-Standard](https://img.shields.io/badge/MCP-Standard-blue)](https://modelcontextprotocol.io)
+[![Author: KianReed](https://img.shields.io/badge/Author-KianReed-orange)](https://github.com/KianReed)
 Developed by **KianReed**
 
 > **让 AI 读懂古老的梦。**
