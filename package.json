@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "基于 MCP 协议的周公解梦古籍检索引擎，提供结构化数据与 AI 逻辑分析支持。",
   "main": "index.js",
+  "module": "index.js",
   "type": "module",
   "scripts": {
     "start": "node index.js"
@@ -21,5 +22,8 @@
   },
   "engines": {
     "node": ">=18.0.0"
+  },
+  "devDependencies": {
+    "esbuild": "^0.27.0"
   }
 }
