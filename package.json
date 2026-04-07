@@ -1,0 +1,25 @@
+{
+  "name": "dreamlogic-mcp",
+  "version": "1.0.0",
+  "description": "基于 MCP 协议的周公解梦古籍检索引擎，提供结构化数据与 AI 逻辑分析支持。",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "zhougong",
+    "dream-interpretation",
+    "kianreed"
+  ],
+  "author": "KianReed",
+  "license": "MIT",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.29.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}

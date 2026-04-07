@@ -1,0 +1,5714 @@
+[
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "天门开",
+    "interpretation": "贵人荐引",
+    "original_text": "天门开：贵人荐引"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "天光灼身",
+    "interpretation": "疾病除",
+    "original_text": "天光灼身：疾病除"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "天晴雨散",
+    "interpretation": "百忧去",
+    "original_text": "天晴雨散：百忧去"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "天明妇有",
+    "interpretation": "生贵子",
+    "original_text": "天明妇有：生贵子"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "天门未至",
+    "interpretation": "有兵荒",
+    "original_text": "天门未至：有兵荒"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "仰面向天",
+    "interpretation": "大富贵",
+    "original_text": "仰面向天：大富贵"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "乘龙上天",
+    "interpretation": "主大贵",
+    "original_text": "乘龙上天：主大贵"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "上天求妻",
+    "interpretation": "儿女贵",
+    "original_text": "上天求妻：儿女贵"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "上天取物",
+    "interpretation": "位王侯",
+    "original_text": "上天取物：位王侯"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "飞上天",
+    "interpretation": "富贵大吉",
+    "original_text": "飞上天：富贵大吉"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "登天上屋",
+    "interpretation": "得高官",
+    "original_text": "癸天上屋：得高官"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "天裂",
+    "interpretation": "有分主国忧",
+    "original_text": "天裂：有分主国忧"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "天皇明主",
+    "interpretation": "公卿至",
+    "original_text": "天皇明主：公卿至"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "天欲晓",
+    "interpretation": "益寿命吉",
+    "original_text": "天欲晓：益寿命吉"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "渡天河",
+    "interpretation": "主有所吉",
+    "original_text": "渡天河：主有所吉"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "天地合",
+    "interpretation": "所求皆得",
+    "original_text": "天地合：所求皆得"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "天公使",
+    "interpretation": "有大吉祥",
+    "original_text": "天公使：有大吉祥"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "日月初出",
+    "interpretation": "家道昌",
+    "original_text": "日月初出：家道昌"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "日月照身",
+    "interpretation": "得重位",
+    "original_text": "日月照身：得重位"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "日月落",
+    "interpretation": "忧没父母",
+    "original_text": "日月落：忧没父母"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "日月昏暗",
+    "interpretation": "孕妇吉",
+    "original_text": "日月昏暗：孕妇吉"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "日月欲出",
+    "interpretation": "有官职",
+    "original_text": "日月欲出：有官职"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "日月合会",
+    "interpretation": "妻有子",
+    "original_text": "日月合会：妻有子"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "日月衔山",
+    "interpretation": "奴欺主",
+    "original_text": "日月衔山：奴欺主"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "负抱日月",
+    "interpretation": "贵王侯",
+    "original_text": "负抱日月：贵王侯"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "吞日月",
+    "interpretation": "当生贵子",
+    "original_text": "吞日月：当生贵子"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "礼拜日月",
+    "interpretation": "大吉昌",
+    "original_text": "礼拜日月：大吉昌"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "日光入屋",
+    "interpretation": "官位至",
+    "original_text": "日光入屋：官位至"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "日初出无云",
+    "interpretation": "大吉",
+    "original_text": "日初出无云：大吉"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "日出有光",
+    "interpretation": "有好事",
+    "original_text": "日出有光：有好事"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "云开日出",
+    "interpretation": "凶事散",
+    "original_text": "云开日出：凶事散"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "日入怀",
+    "interpretation": "贵子月女",
+    "original_text": "日入怀：贵子月女"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "拜星月烧香",
+    "interpretation": "大吉",
+    "original_text": "拜星月烧香：大吉"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "云忽遮日",
+    "interpretation": "有阴私",
+    "original_text": "云忽遮日：有阴私"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "星入怀",
+    "interpretation": "主生贵子",
+    "original_text": "星入怀：主生贵子"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "星落",
+    "interpretation": "有病及官事",
+    "original_text": "星落：有病及官事"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "星列行",
+    "interpretation": "主添奴婢",
+    "original_text": "星列行：主添奴婢"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "持执星宿",
+    "interpretation": "大富贵",
+    "original_text": "持执星宿：大富贵"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "流星不落",
+    "interpretation": "主移居",
+    "original_text": "流星不落：主移居"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "巡天摩星",
+    "interpretation": "位公卿",
+    "original_text": "巡天摩星：位公卿"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "云起四方",
+    "interpretation": "交易吉",
+    "original_text": "云起四方：交易吉"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "五色云",
+    "interpretation": "主大吉昌",
+    "original_text": "五色云：主大吉昌"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "云赤白吉",
+    "interpretation": "青黑凶",
+    "original_text": "云赤白吉：青黑凶"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "见浮云",
+    "interpretation": "作事不成",
+    "original_text": "见浮云：作事不成"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "云雾遮事",
+    "interpretation": "大吉利",
+    "original_text": "云雾遮事：大吉利"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "黑云压地",
+    "interpretation": "时气病",
+    "original_text": "黑云压地：时气病"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "霜雪降",
+    "interpretation": "主事不成",
+    "original_text": "霜雪降：主事不成"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "雪下及时",
+    "interpretation": "大吉利",
+    "original_text": "雪下及时：大吉利"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "雪落身上",
+    "interpretation": "万事成",
+    "original_text": "雪落身上：万事成"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "雪不沾身",
+    "interpretation": "主孝服",
+    "original_text": "雪不沾身：主孝服"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "雪落家庭",
+    "interpretation": "主丧事",
+    "original_text": "雪落家庭：主丧事"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "阴雨晦时",
+    "interpretation": "主囚事",
+    "original_text": "阴雨晦时：主囚事"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "行路逢雨",
+    "interpretation": "有酒食",
+    "original_text": "行路逢雨：有酒食"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "雷霆作声",
+    "interpretation": "官位至",
+    "original_text": "雷霆作声：官位至"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "雷声恐怕",
+    "interpretation": "私居吉",
+    "original_text": "雷声恐怕：私居吉"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "雷从地震",
+    "interpretation": "主志遂",
+    "original_text": "雷从地震：主志遂"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "身被霹雳",
+    "interpretation": "主富贵",
+    "original_text": "身被霹雳：主富贵"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "电光照身",
+    "interpretation": "有吉庆",
+    "original_text": "电光照身：有吉庆"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "赤虹见吉",
+    "interpretation": "黑虹凶",
+    "original_text": "赤虹见吉：黑虹凶"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "霞满天",
+    "interpretation": "百事欢悦",
+    "original_text": "霞满天：百事欢悦"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "狂风大雨",
+    "interpretation": "人死亡",
+    "original_text": "狂风大雨：人死亡"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "风吹人衣",
+    "interpretation": "主疾病",
+    "original_text": "风吹人衣：主疾病"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "忽大风",
+    "interpretation": "国有号令",
+    "original_text": "忽大风：国有号令"
+  },
+  {
+    "category": "天地　日月　星辰",
+    "keyword": "风如吼",
+    "interpretation": "主远信至",
+    "original_text": "风如吼：主远信至"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "地动",
+    "interpretation": "主迁官位吉",
+    "original_text": "地动：主迁官位吉"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "地裂",
+    "interpretation": "主疾病大凶",
+    "original_text": "地裂：主疾病大凶"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "修平田地",
+    "interpretation": "大吉昌",
+    "original_text": "修平田地：大吉昌"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "地高下不平",
+    "interpretation": "主病",
+    "original_text": "地高下不平：主病"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "卧于石上",
+    "interpretation": "主大吉",
+    "original_text": "卧于石上：主大吉"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "地中黑气上",
+    "interpretation": "主凶",
+    "original_text": "地中黑气上：主凶"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "运石入家",
+    "interpretation": "主富贵",
+    "original_text": "运石入家：主富贵"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "石上得利禄",
+    "interpretation": "大吉",
+    "original_text": "石上得利禄：大吉"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "盘石安稳",
+    "interpretation": "无忧疑",
+    "original_text": "盘石安稳：无忧疑"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "登岩抱石",
+    "interpretation": "官职迁",
+    "original_text": "登岩抱石：官职迁"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "手弄小石",
+    "interpretation": "生贵子",
+    "original_text": "手弄小石：生贵子"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "身人土中",
+    "interpretation": "百事吉",
+    "original_text": "身人土中：百事吉"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "自身取土",
+    "interpretation": "被耻辱",
+    "original_text": "自身取土：被耻辱"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "升山落地",
+    "interpretation": "主失位",
+    "original_text": "升山落地：主失位"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "居住高山",
+    "interpretation": "有喜事",
+    "original_text": "居住高山：有喜事"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "山行得财",
+    "interpretation": "有福禄",
+    "original_text": "山行得财：有福禄"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "抱物上山",
+    "interpretation": "孕贵子",
+    "original_text": "抱物上山：孕贵子"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "山中农稼",
+    "interpretation": "衣食丰",
+    "original_text": "山中农稼：衣食丰"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "枯木再发",
+    "interpretation": "子孙兴",
+    "original_text": "枯木再发：子孙兴"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "堂上地陷",
+    "interpretation": "主安忧",
+    "original_text": "堂上地陷：主安忧"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "园林茂盛",
+    "interpretation": "大吉利",
+    "original_text": "园林茂盛：大吉利"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "树木枯死",
+    "interpretation": "宅不安",
+    "original_text": "树木枯死：宅不安"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "林中坐卧",
+    "interpretation": "病欲痊",
+    "original_text": "林中坐卧：病欲痊"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "树木凋零",
+    "interpretation": "主人凶",
+    "original_text": "树木凋零：主人凶"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "林中树生",
+    "interpretation": "添贵子",
+    "original_text": "林中树生：添贵子"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "种树木者",
+    "interpretation": "大吉昌",
+    "original_text": "种树木者：大吉昌"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "登大树",
+    "interpretation": "名利显扬",
+    "original_text": "登大树：名利显扬"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "上树忽折",
+    "interpretation": "有死伤",
+    "original_text": "上树忽折：有死伤"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "与人分花",
+    "interpretation": "主分散",
+    "original_text": "与人分花：主分散"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "枯木开花",
+    "interpretation": "兴子孙",
+    "original_text": "枯木开花：兴子孙"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "大树落叶",
+    "interpretation": "屋中吉",
+    "original_text": "大树落叶：屋中吉"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "立树下",
+    "interpretation": "贵人庇阴",
+    "original_text": "立树下：贵人庇阴"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "树生堂上",
+    "interpretation": "父母忧",
+    "original_text": "树生堂上：父母忧"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "大木忽折",
+    "interpretation": "主凶恶",
+    "original_text": "大木忽折：主凶恶"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "担水来家",
+    "interpretation": "得财喜",
+    "original_text": "担水来家：得财喜"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "砍伐大树",
+    "interpretation": "多得财",
+    "original_text": "砍伐大树：多得财"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "草木茂盛",
+    "interpretation": "家道兴",
+    "original_text": "草木茂盛：家道兴"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "门中生果树",
+    "interpretation": "有子",
+    "original_text": "门中生果树：有子"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "松生屋上",
+    "interpretation": "位三公",
+    "original_text": "松生屋上：位三公"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "家中生松",
+    "interpretation": "事转丰",
+    "original_text": "家中生松：事转丰"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "家中生柏",
+    "interpretation": "大吉利",
+    "original_text": "家中生柏：大吉利"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "庭前竹木",
+    "interpretation": "喜重重",
+    "original_text": "庭前竹木：喜重重"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "枫生屋上",
+    "interpretation": "百事遂",
+    "original_text": "枫生屋上：百事遂"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "兰生庭前",
+    "interpretation": "主添孙",
+    "original_text": "兰生庭前：主添孙"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "果林中行",
+    "interpretation": "主得财",
+    "original_text": "果林中行：主得财"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "入果园中",
+    "interpretation": "大发财",
+    "original_text": "入果园中：大发财"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "桑生井上",
+    "interpretation": "主有忧",
+    "original_text": "桑生井上：主有忧"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "果树多熟",
+    "interpretation": "子孙安",
+    "original_text": "果树多熟：子孙安"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "折笋到家",
+    "interpretation": "女有子",
+    "original_text": "折笋到家：女有子"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "见笋者",
+    "interpretation": "主添子孙",
+    "original_text": "见笋者：主添子孙"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "扫地除粪",
+    "interpretation": "家欲破",
+    "original_text": "扫地除粪：家欲破"
+  },
+  {
+    "category": "地理　山石　树木",
+    "keyword": "粪土堆者",
+    "interpretation": "钱财聚",
+    "original_text": "粪土堆者：钱财聚"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "自身白衣",
+    "interpretation": "人所谋",
+    "original_text": "自身白衣：人所谋"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "梳头洗面",
+    "interpretation": "百忧去",
+    "original_text": "梳头洗面：百忧去"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "身拜尊长",
+    "interpretation": "大吉昌",
+    "original_text": "身拜尊长：大吉昌"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "身上汗出",
+    "interpretation": "主凶恶",
+    "original_text": "身上汗出：主凶恶"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "身病虫出",
+    "interpretation": "得重职",
+    "original_text": "身病虫出：得重职"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "身上虫行",
+    "interpretation": "病患安",
+    "original_text": "身上虫行：病患安"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "绳索系身",
+    "interpretation": "长命吉",
+    "original_text": "绳索系身：长命吉"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "枷索临身",
+    "interpretation": "病欲来",
+    "original_text": "枷索临身：病欲来"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "身或肥瘦",
+    "interpretation": "皆为凶",
+    "original_text": "身或肥瘦：皆为凶"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "面对官者",
+    "interpretation": "主大吉",
+    "original_text": "面对官者：主大吉"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "露体无衣",
+    "interpretation": "吉大利",
+    "original_text": "露体无衣：吉大利"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "妇人披头",
+    "interpretation": "有私情",
+    "original_text": "妇人披头：有私情"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "头白",
+    "interpretation": "主长命大吉",
+    "original_text": "头白：主长命大吉"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "头生两角",
+    "interpretation": "有争竞",
+    "original_text": "头生两角：有争竞"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "头秃发落",
+    "interpretation": "皆凶事",
+    "original_text": "头秃发落：皆凶事"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "面生疮黑",
+    "interpretation": "主子凶",
+    "original_text": "面生疮黑：主子凶"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "头须自落",
+    "interpretation": "忧子孙",
+    "original_text": "头须自落：忧子孙"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "头须再生",
+    "interpretation": "主长命",
+    "original_text": "头须再生：主长命"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "沐浴",
+    "interpretation": "迁官疾病除",
+    "original_text": "沐浴：迁官疾病除"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "洗手洗足",
+    "interpretation": "旧患除",
+    "original_text": "洗手洗足：旧患除"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "照镜明吉",
+    "interpretation": "暗者凶",
+    "original_text": "照镜明吉：暗者凶"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "破镜照人",
+    "interpretation": "主分散",
+    "original_text": "破镜照人：主分散"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "手足浓血出",
+    "interpretation": "大吉",
+    "original_text": "手足浓血出：大吉"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "屎尿污人",
+    "interpretation": "大吉亨",
+    "original_text": "屎尿污人：大吉亨"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "露头披发",
+    "interpretation": "阴人谋",
+    "original_text": "露头披发：阴人谋"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "披头盖面",
+    "interpretation": "官讼至",
+    "original_text": "披头盖面：官讼至"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "剪剃头发",
+    "interpretation": "家内凶",
+    "original_text": "剪剃头发：家内凶"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "眉与发齐",
+    "interpretation": "禄位至",
+    "original_text": "眉与发齐：禄位至"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "齿自落者",
+    "interpretation": "父母凶",
+    "original_text": "齿自落者：父母凶"
+  },
+  {
+    "category": "身体　面目　齿发",
+    "keyword": "齿落更生",
+    "interpretation": "子孙兴",
+    "original_text": "齿落更生：子孙兴"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "戴冠登车",
+    "interpretation": "官欲迁",
+    "original_text": "戴冠登车：官欲迁"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "自戴帽头巾帽",
+    "interpretation": "吉",
+    "original_text": "自戴帽头巾帽：吉"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "簪冠登台",
+    "interpretation": "职位迁",
+    "original_text": "簪冠登台：职位迁"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "贵人与之衣冠",
+    "interpretation": "吉",
+    "original_text": "贵人与之衣冠：吉"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "新换衣冠",
+    "interpretation": "禄位至",
+    "original_text": "新换衣冠：禄位至"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "烧毁官帽",
+    "interpretation": "欲更官",
+    "original_text": "烧毁官帽：欲更官"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "失去官帽",
+    "interpretation": "主退职",
+    "original_text": "失去官帽：主退职"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "拾得冠带",
+    "interpretation": "禄位至",
+    "original_text": "拾得冠带：禄位至"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "与人公服",
+    "interpretation": "主得职",
+    "original_text": "与人公服：主得职"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "人与公服",
+    "interpretation": "加官职",
+    "original_text": "人与公服：加官职"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "女着冠带",
+    "interpretation": "主生子",
+    "original_text": "女着冠带：主生子"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "洗笏染服",
+    "interpretation": "新官来",
+    "original_text": "洗笏染服：新官来"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "执笏见贵人",
+    "interpretation": "大吉",
+    "original_text": "执笏见贵人：大吉"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "笏破忧凶",
+    "interpretation": "主不祥",
+    "original_text": "笏破忧凶：主不祥"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "与人笏授",
+    "interpretation": "主官迁",
+    "original_text": "与人笏授：主官迁"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "腰带者",
+    "interpretation": "主官至吉",
+    "original_text": "腰带者：主官至吉"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "文书用印",
+    "interpretation": "有名声",
+    "original_text": "文书用印：有名声"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "带印",
+    "interpretation": "主妻生贵子",
+    "original_text": "带印：主妻生贵子"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "着新袍",
+    "interpretation": "主添妻妾",
+    "original_text": "着新袍：主添妻妾"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "着锦绣衣",
+    "interpretation": "子孙荣",
+    "original_text": "着锦绣衣：子孙荣"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "洗染衣服",
+    "interpretation": "皆大吉",
+    "original_text": "洗染衣服：皆大吉"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "披蓑衣",
+    "interpretation": "主大恩至",
+    "original_text": "披蓑衣：主大恩至"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "被油污衣",
+    "interpretation": "大恩泽",
+    "original_text": "被油污衣：大恩泽"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "衣服忽破",
+    "interpretation": "妻外心",
+    "original_text": "衣服忽破：妻外心"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "新衣攒来",
+    "interpretation": "百事凶",
+    "original_text": "新衣攒来：百事凶"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "与人衣服",
+    "interpretation": "主患至",
+    "original_text": "与人衣服：主患至"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "裁衣着孝衣",
+    "interpretation": "皆吉",
+    "original_text": "裁衣着孝衣：皆吉"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "衣带自解",
+    "interpretation": "百事吉",
+    "original_text": "衣带自解：百事吉"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "着黄衣皂衣",
+    "interpretation": "皆吉",
+    "original_text": "着黄衣皂衣：皆吉"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "着白衣",
+    "interpretation": "主有人请",
+    "original_text": "着白衣：主有人请"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "着青衣",
+    "interpretation": "神有助力",
+    "original_text": "着青衣：神有助力"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "着蓝绣衣",
+    "interpretation": "妻大利",
+    "original_text": "着蓝绣衣：妻大利"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "从人着紫",
+    "interpretation": "主情弊",
+    "original_text": "从人着紫：主情弊"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "众人着青",
+    "interpretation": "家人散",
+    "original_text": "众人着青：家人散"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "众人着白",
+    "interpretation": "主官事",
+    "original_text": "众人着白：主官事"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "众人着红",
+    "interpretation": "大吉利",
+    "original_text": "众人着红：大吉利"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "妻着夫衣",
+    "interpretation": "生贵子",
+    "original_text": "妻着夫衣：生贵子"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "女人着衫",
+    "interpretation": "平无事",
+    "original_text": "女人着衫：平无事"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "与人共衣",
+    "interpretation": "妾私情",
+    "original_text": "与人共衣：妾私情"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "失却衣服",
+    "interpretation": "妻难产",
+    "original_text": "失却衣服：妻难产"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "好被自盖",
+    "interpretation": "得富贵",
+    "original_text": "好被自盖：得富贵"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "人着己履",
+    "interpretation": "妻有私",
+    "original_text": "人着己履：妻有私"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "得靴鞋",
+    "interpretation": "主奴婢吉",
+    "original_text": "得靴鞋：主奴婢吉"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "得履",
+    "interpretation": "主奴婢逃走",
+    "original_text": "的履：主奴婢逃走"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "脱靴束带",
+    "interpretation": "主有凶",
+    "original_text": "脱靴束带：主有凶"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "鞋破",
+    "interpretation": "子孙妻妾病",
+    "original_text": "鞋破：子孙妻妾病"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "着麻鞋",
+    "interpretation": "百事和合",
+    "original_text": "着麻鞋：百事和合"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "新授官爵",
+    "interpretation": "主贵子",
+    "original_text": "新授官爵：主贵子"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "乞得鞋履",
+    "interpretation": "人助力",
+    "original_text": "乞得鞋履：人助力"
+  },
+  {
+    "category": "冠带　衣服　鞋袜",
+    "keyword": "木履脱时",
+    "interpretation": "已出危",
+    "original_text": "木履脱时：已出危"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "君主队杖",
+    "interpretation": "有异吉",
+    "original_text": "君主队杖：有异吉"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "旌旗受宠",
+    "interpretation": "大吉利",
+    "original_text": "旌旗受宠：大吉利"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "抱旌节",
+    "interpretation": "主贵人扶",
+    "original_text": "抱旌节：主贵人扶"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "旌旗引入山",
+    "interpretation": "主凶",
+    "original_text": "旌旗引入山：主凶"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "造旌盖",
+    "interpretation": "大吉利",
+    "original_text": "造旌盖：大吉利"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "羽益盖身",
+    "interpretation": "主富贵",
+    "original_text": "羽益盖身：主富贵"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "旌旗迎接",
+    "interpretation": "大富贵",
+    "original_text": "旌旗迎接：大富贵"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "旗幡竞出",
+    "interpretation": "主疾病",
+    "original_text": "旗幡竞出：主疾病"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "手持旌节",
+    "interpretation": "有恩偿",
+    "original_text": "手持旌节：有恩偿"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "自盖覆身",
+    "interpretation": "大吉利",
+    "original_text": "自盖覆身：大吉利"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "见做新旗",
+    "interpretation": "大吉利",
+    "original_text": "见做新旗：大吉利"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "与人分金",
+    "interpretation": "主分散",
+    "original_text": "与人分金：主分散"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "拔刀出行",
+    "interpretation": "大吉利",
+    "original_text": "拔刀出行：大吉利"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "得人刀",
+    "interpretation": "主行人至",
+    "original_text": "得人刀：主行人至"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "人与三刀",
+    "interpretation": "作刺史",
+    "original_text": "人与三刀：作刺史"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "与人相砍",
+    "interpretation": "大吉庆",
+    "original_text": "与人相砍：大吉庆"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "被刀出血",
+    "interpretation": "得酒食",
+    "original_text": "被刀出血：得酒食"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "持刀刺人",
+    "interpretation": "主失利",
+    "original_text": "持刀刺人：主失利"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "刀斧自伤",
+    "interpretation": "大吉利",
+    "original_text": "刀斧自伤：大吉利"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "得人刀斧",
+    "interpretation": "禄位至",
+    "original_text": "得人刀斧：禄位至"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "刀落水中",
+    "interpretation": "妻妾亡",
+    "original_text": "刀落水中：妻妾亡"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "失落刀剑",
+    "interpretation": "主破财",
+    "original_text": "失落刀剑：主破财"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "带刀剑行",
+    "interpretation": "有财利",
+    "original_text": "带刀剑行：有财利"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "磨刀剑锋快",
+    "interpretation": "大古",
+    "original_text": "磨刀剑锋快：大古"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "与人刀剑",
+    "interpretation": "皆主凶",
+    "original_text": "与人刀剑：皆主凶"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "剑在床头",
+    "interpretation": "大吉利",
+    "original_text": "剑在床头：大吉利"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "女人带刀",
+    "interpretation": "大吉庆",
+    "original_text": "女人带刀：大吉庆"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "女人拔刀",
+    "interpretation": "主有子",
+    "original_text": "女人拔刀：主有子"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "剪刀",
+    "interpretation": "主分财之事",
+    "original_text": "剪刀：主分财之事"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "剪刀剪物",
+    "interpretation": "主得财",
+    "original_text": "剪刀剪物：主得财"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "剪刀折股",
+    "interpretation": "妻妾凶",
+    "original_text": "剪刀折股：妻妾凶"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "甲胄披身",
+    "interpretation": "护吉利",
+    "original_text": "甲胄披身：护吉利"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "枪槊",
+    "interpretation": "主官位吉利",
+    "original_text": "枪槊：主官位吉利"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "见军兵败",
+    "interpretation": "主有凶",
+    "original_text": "见军兵败：主有凶"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "钟磐有声",
+    "interpretation": "远人来",
+    "original_text": "钟磐有声：远人来"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "钟鼓大鸣",
+    "interpretation": "福禄至",
+    "original_text": "钟鼓大鸣：福禄至"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "打鼓有声",
+    "interpretation": "远有来",
+    "original_text": "打鼓有声：远有来"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "见鼓住声",
+    "interpretation": "欢乐吉",
+    "original_text": "见鼓住声：欢乐吉"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "见鼓不鸣",
+    "interpretation": "凶必至",
+    "original_text": "见鼓不鸣：凶必至"
+  },
+  {
+    "category": "刀剑　旌节　钟鼓",
+    "keyword": "看放烟火",
+    "interpretation": "有忧散",
+    "original_text": "看放烟火：有忧散"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "帝王宣召",
+    "interpretation": "有惊喜",
+    "original_text": "帝王宣召：有惊喜"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "后妃呼召",
+    "interpretation": "饮有疾",
+    "original_text": "后妃呼召：饮有疾"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "太子召",
+    "interpretation": "大喜吉利",
+    "original_text": "太子召：大喜吉利"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "天子赐坐",
+    "interpretation": "有财吉",
+    "original_text": "天子赐坐：有财吉"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "王侯并坐",
+    "interpretation": "大吉利",
+    "original_text": "王侯并坐：大吉利"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "来见贵人",
+    "interpretation": "不得凶",
+    "original_text": "来见贵人：不得凶"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "与圣贤说诣",
+    "interpretation": "大吉",
+    "original_text": "与圣贤说诣：大吉"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "使命入门",
+    "interpretation": "大吉利",
+    "original_text": "使命入门：大吉利"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "白衣召作",
+    "interpretation": "使死亡",
+    "original_text": "白衣召作：使死亡"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "拜尊长者",
+    "interpretation": "有吉庆",
+    "original_text": "拜尊长者：有吉庆"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "先祖考言",
+    "interpretation": "求食吉",
+    "original_text": "先祖考言：求食吉"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "人云大好者",
+    "interpretation": "即凶",
+    "original_text": "人云大好者：即凶"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "人云死者",
+    "interpretation": "得长命",
+    "original_text": "人云死者：得长命"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "人在外呼之",
+    "interpretation": "主凶",
+    "original_text": "人在外呼之：主凶"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "我欲共汝去",
+    "interpretation": "大凶",
+    "original_text": "我欲共汝去：大凶"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "人云不用汝",
+    "interpretation": "大吉",
+    "original_text": "人云不用汝：大吉"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "与恶人言",
+    "interpretation": "有口舌",
+    "original_text": "与恶人言：有口舌"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "被杀害吉",
+    "interpretation": "伏藏凶",
+    "original_text": "被杀害吉：伏藏凶"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "身生羽翼飞",
+    "interpretation": "大吉",
+    "original_text": "身生羽翼飞：大吉"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "身逃走",
+    "interpretation": "得脱病去",
+    "original_text": "身逃走：得脱病去"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "与人交易",
+    "interpretation": "主有疾",
+    "original_text": "与人交易：主有疾"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "贫穷共居",
+    "interpretation": "主大吉",
+    "original_text": "贫穷共居：主大吉"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "合伴同行",
+    "interpretation": "凶事至",
+    "original_text": "合伴同行：凶事至"
+  },
+  {
+    "category": "帝王　文武　呼召",
+    "keyword": "一切贵人",
+    "interpretation": "皆吉利",
+    "original_text": "一切贵人：皆吉利"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "入帝王官",
+    "interpretation": "行大吉",
+    "original_text": "入帝王官：行大吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "拜朝廷者",
+    "interpretation": "主富贵",
+    "original_text": "拜朝廷者：主富贵"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "入王侯府",
+    "interpretation": "主大吉",
+    "original_text": "入王侯府：主大吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "行道宫见仙",
+    "interpretation": "主吉",
+    "original_text": "行道宫见仙：主吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "坐官府中",
+    "interpretation": "主大吉",
+    "original_text": "坐官府中：主大吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "神庙广大",
+    "interpretation": "事事吉",
+    "original_text": "神庙广大：事事吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "上楼阁坛",
+    "interpretation": "俱大吉",
+    "original_text": "上楼阁坛：俱大吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "上高堂",
+    "interpretation": "大富贵至",
+    "original_text": "上高堂：大富贵至"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "高楼饮酒",
+    "interpretation": "富贵至",
+    "original_text": "高楼饮酒：富贵至"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "家起高楼",
+    "interpretation": "安稳事",
+    "original_text": "家起高楼：安稳事"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "上城为人所拽",
+    "interpretation": "吉",
+    "original_text": "上城为人所拽：吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "上城被执",
+    "interpretation": "官职显",
+    "original_text": "上城被执：官职显"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "城郭广大",
+    "interpretation": "财喜多",
+    "original_text": "城郭广大：财喜多"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "城中行凶",
+    "interpretation": "出门吉",
+    "original_text": "城中行凶：出门吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "连城青色",
+    "interpretation": "有喜吉",
+    "original_text": "连城青色：有喜吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "登赤城郭",
+    "interpretation": "主大吉",
+    "original_text": "登赤城郭：主大吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "盖城上屋",
+    "interpretation": "大吉利",
+    "original_text": "盖城上屋：大吉利"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "上屋主富",
+    "interpretation": "出园吉",
+    "original_text": "上屋主富：出园吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "上屋破坏",
+    "interpretation": "家道凶",
+    "original_text": "上屋破坏：家道凶"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "堂上有棺",
+    "interpretation": "身安乐",
+    "original_text": "堂上有棺：身安乐"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "正堂倒陷",
+    "interpretation": "家主凶",
+    "original_text": "正堂倒陷：家主凶"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "覆盖屋宇",
+    "interpretation": "长命吉",
+    "original_text": "覆盖屋宇：长命吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "屋宅更新",
+    "interpretation": "主大吉",
+    "original_text": "屋宅更新：主大吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "风吹屋动",
+    "interpretation": "主迁移",
+    "original_text": "风吹屋动：主迁移"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "迁入他人新宅",
+    "interpretation": "吉",
+    "original_text": "迁入他人新宅：吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "居田宅",
+    "interpretation": "主妻喜事",
+    "original_text": "居田宅：主妻喜事"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "搬移破屋",
+    "interpretation": "主美妻",
+    "original_text": "搬移破屋：主美妻"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "人或典房",
+    "interpretation": "主官让",
+    "original_text": "人或典房：主官让"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "家道贫穷",
+    "interpretation": "大吉利",
+    "original_text": "家道贫穷：大吉利"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "洒扫宅舍",
+    "interpretation": "远人来",
+    "original_text": "洒扫宅舍：远人来"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "典卖田舍",
+    "interpretation": "主失位",
+    "original_text": "典卖田舍：主失位"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "屋宅无人",
+    "interpretation": "主死亡",
+    "original_text": "屋宅无人：主死亡"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "屋下穿身",
+    "interpretation": "有暗昧",
+    "original_text": "屋下穿身：有暗昧"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "逾墙度宅",
+    "interpretation": "险事去",
+    "original_text": "逾墙度宅：险事去"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "与人争屋",
+    "interpretation": "主大凶",
+    "original_text": "与人争屋：主大凶"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "与妇人争屋",
+    "interpretation": "主吉",
+    "original_text": "与妇人争屋：主吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "房梁忽折",
+    "interpretation": "主大凶",
+    "original_text": "房梁忽折：主大凶"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "院宅坑下",
+    "interpretation": "主死亡",
+    "original_text": "院宅坑下：主死亡"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "妻男墙下",
+    "interpretation": "官位至",
+    "original_text": "妻男墙下：官位至"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "墙上掘土",
+    "interpretation": "主更改",
+    "original_text": "墙上掘土：主更改"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "军人入宅",
+    "interpretation": "主大吉",
+    "original_text": "军人入宅：主大吉"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "屋瓦落",
+    "interpretation": "妇争斗",
+    "original_text": "死央瓦落：妇争斗"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "屋中生马",
+    "interpretation": "男信至",
+    "original_text": "屋中生马：男信至"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "屋中生草",
+    "interpretation": "家欲空",
+    "original_text": "屋中生草：家欲空"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "屋上生松柏",
+    "interpretation": "益寿",
+    "original_text": "屋上生松柏：益寿"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "修理田舍",
+    "interpretation": "有大喜",
+    "original_text": "修理田舍：有大喜"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "入寺院中",
+    "interpretation": "生贵子",
+    "original_text": "入寺院中：生贵子"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "寺舍看经",
+    "interpretation": "病人痊",
+    "original_text": "寺舍看经：病人痊"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "迁移尼寺",
+    "interpretation": "主病至",
+    "original_text": "迁移尼寺：主病至"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "超盖仓库",
+    "interpretation": "福禄至",
+    "original_text": "超盖仓库：福禄至"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "仓库崩坏",
+    "interpretation": "百事凶",
+    "original_text": "仓库崩坏：百事凶"
+  },
+  {
+    "category": "宫室　屋宇　仓库",
+    "keyword": "入仓库中",
+    "interpretation": "大吉昌",
+    "original_text": "入仓库中：大吉昌"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "门户高大",
+    "interpretation": "主富贵",
+    "original_text": "门户高大：主富贵"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "新开门户",
+    "interpretation": "大富贵",
+    "original_text": "新开门户：大富贵"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "门户忽开",
+    "interpretation": "主大吉",
+    "original_text": "门户忽开：主大吉"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "门户大开",
+    "interpretation": "大吉利",
+    "original_text": "门户大开：大吉利"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "门更新",
+    "interpretation": "主生贵子",
+    "original_text": "门更新：主生贵子"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "门自开",
+    "interpretation": "妻有私情",
+    "original_text": "门自开：妻有私情"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "门户裂开",
+    "interpretation": "主大吉",
+    "original_text": "门户裂开：主大吉"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "门户破碎",
+    "interpretation": "有凶事",
+    "original_text": "门户破碎：有凶事"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "城门大开",
+    "interpretation": "主口舌",
+    "original_text": "城门大开：主口舌"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "宫城塞者",
+    "interpretation": "口舌至",
+    "original_text": "宫城塞者：口舌至"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "门户闭塞",
+    "interpretation": "事不能",
+    "original_text": "门户闭塞：事不能"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "门户败坏",
+    "interpretation": "主大凶",
+    "original_text": "门户败坏：主大凶"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "门扇自折",
+    "interpretation": "奴仆走",
+    "original_text": "门扇自折：奴仆走"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "门户内无人",
+    "interpretation": "大凶",
+    "original_text": "门户内无人：大凶"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "修移门户",
+    "interpretation": "大吉利",
+    "original_text": "修移门户：大吉利"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "石为门户",
+    "interpretation": "主寿命",
+    "original_text": "石为门户：主寿命"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "门前生洲",
+    "interpretation": "作刺史",
+    "original_text": "门前生洲：作刺史"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "门前坑沟",
+    "interpretation": "事不成",
+    "original_text": "门前坑沟：事不成"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "天火烧门",
+    "interpretation": "主凶事",
+    "original_text": "天火烧门：主凶事"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "屋开小门",
+    "interpretation": "主私情",
+    "original_text": "屋开小门：主私情"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "穿并见水",
+    "interpretation": "远信至",
+    "original_text": "穿并见水：远信至"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "井自损坏",
+    "interpretation": "家大败",
+    "original_text": "井自损坏：家大败"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "井中沸溢",
+    "interpretation": "主得财",
+    "original_text": "井中沸溢：主得财"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "井枯涸者",
+    "interpretation": "家财散",
+    "original_text": "井枯涸者：家财散"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "井中照身",
+    "interpretation": "禄位至",
+    "original_text": "井中照身：禄位至"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "身坠井中",
+    "interpretation": "疾病凶",
+    "original_text": "身坠井中：疾病凶"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "屋在井中",
+    "interpretation": "主见病",
+    "original_text": "屋在井中：主见病"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "取井水",
+    "interpretation": "清吉浑凶",
+    "original_text": "取井水：清吉浑凶"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "井中伏泥出",
+    "interpretation": "主财",
+    "original_text": "井中伏泥出：主财"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "井中欲于",
+    "interpretation": "家欲败",
+    "original_text": "井中欲于：家欲败"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "井中有鱼",
+    "interpretation": "身主贵",
+    "original_text": "井中有鱼：身主贵"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "窥井有声",
+    "interpretation": "口舌生",
+    "original_text": "窥井有声：口舌生"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "伏藏井中",
+    "interpretation": "刑狱事",
+    "original_text": "伏藏井中：刑狱事"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "醉落井中",
+    "interpretation": "官事至",
+    "original_text": "醉落井中：官事至"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "家住井中",
+    "interpretation": "长子匈",
+    "original_text": "家住井中：长子匈"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "人云出井",
+    "interpretation": "喜事至",
+    "original_text": "人云出井：喜事至"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "掏井造井",
+    "interpretation": "主大贵",
+    "original_text": "掏井造井：主大贵"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "器皿落井",
+    "interpretation": "有急事",
+    "original_text": "器皿落井：有急事"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "灶下水流",
+    "interpretation": "得横财",
+    "original_text": "灶下水流：得横财"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "灶下燃火",
+    "interpretation": "有声名",
+    "original_text": "灶下燃火：有声名"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "灶釜破败",
+    "interpretation": "有死亡",
+    "original_text": "灶釜破败：有死亡"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "灶下炊者",
+    "interpretation": "家破败",
+    "original_text": "灶下炊者：家破败"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "灶下器鸣",
+    "interpretation": "主口舌",
+    "original_text": "灶下器鸣：主口舌"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "屋有二灶",
+    "interpretation": "事不成",
+    "original_text": "屋有二灶：事不成"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "修造炊灶",
+    "interpretation": "大吉利",
+    "original_text": "修造炊灶：大吉利"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "在官厨中",
+    "interpretation": "得财禄",
+    "original_text": "在官厨中：得财禄"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "自炊日中",
+    "interpretation": "妻妾之",
+    "original_text": "自炊日中：妻妾之"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "掏厕者",
+    "interpretation": "主得横财",
+    "original_text": "掏厕者：主得横财"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "上厕在尿屎中",
+    "interpretation": "吉",
+    "original_text": "上厕在尿屎中：吉"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "厕中屎溢",
+    "interpretation": "大吉利",
+    "original_text": "厕中屎溢：大吉利"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "粪中坐者",
+    "interpretation": "主大凶",
+    "original_text": "粪中坐者：主大凶"
+  },
+  {
+    "category": "门户　井灶　厨厕",
+    "keyword": "粪土堆积",
+    "interpretation": "主得财",
+    "original_text": "粪土堆积：主得财"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "金银宝者",
+    "interpretation": "主富贵",
+    "original_text": "金银宝者：主富贵"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "金银珠玉",
+    "interpretation": "大吉利",
+    "original_text": "金银珠玉：大吉利"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "金银杯皿",
+    "interpretation": "有贵孕",
+    "original_text": "金银杯皿：有贵孕"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "金银作铛器",
+    "interpretation": "大吉",
+    "original_text": "金银作铛器：大吉"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "玉积如山",
+    "interpretation": "大富贵",
+    "original_text": "玉积如山：大富贵"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "得金玉环",
+    "interpretation": "生贵子",
+    "original_text": "得金玉环：生贵子"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "铜裆",
+    "interpretation": "主有口舌至",
+    "original_text": "铜裆：主有口舌至"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "珠玉满怀",
+    "interpretation": "主大凶",
+    "original_text": "珠玉满怀：主大凶"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "得玉碗器物",
+    "interpretation": "皆吉",
+    "original_text": "得玉碗器物：皆吉"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "见铁器物",
+    "interpretation": "主得财",
+    "original_text": "见铁器物：主得财"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "铅与锡者",
+    "interpretation": "主得财",
+    "original_text": "铅与锡者：主得财"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "得铜物",
+    "interpretation": "主大富贵",
+    "original_text": "得铜物：主大富贵"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "镶铅器物",
+    "interpretation": "疾病去",
+    "original_text": "镶铅器物：疾病去"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "还人钱物",
+    "interpretation": "疾病去",
+    "original_text": "还人钱物：疾病去"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "拾得钱物",
+    "interpretation": "皆大吉",
+    "original_text": "拾得钱物：皆大吉"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "钱",
+    "interpretation": "春夏吉秋冬凶",
+    "original_text": "钱：春夏吉秋冬凶"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "家中分财",
+    "interpretation": "主离散",
+    "original_text": "家中分财：主离散"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "赠彩帛者",
+    "interpretation": "主有权",
+    "original_text": "赠彩帛者：主有权"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "贵人赐绫锦",
+    "interpretation": "官至",
+    "original_text": "贵人赐绫锦：官至"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "人赐绢帛",
+    "interpretation": "大吉昌",
+    "original_text": "人赐绢帛：大吉昌"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "与人丝帛",
+    "interpretation": "大凶恶",
+    "original_text": "与人丝帛：大凶恶"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "得他人麻布衣",
+    "interpretation": "凶",
+    "original_text": "得他人麻布衣：凶"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "得布帛",
+    "interpretation": "远亲来至",
+    "original_text": "得布帛：远亲来至"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "与人衣服",
+    "interpretation": "官事至",
+    "original_text": "与人衣服：官事至"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "寻丝绢",
+    "interpretation": "主进入口",
+    "original_text": "寻丝绢：主进入口"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "纺绩者",
+    "interpretation": "主寿命长",
+    "original_text": "纺绩者：主寿命长"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "经络者",
+    "interpretation": "主被人辱",
+    "original_text": "经络者：主被人辱"
+  },
+  {
+    "category": "金银　珠玉　绢帛",
+    "keyword": "箱器",
+    "interpretation": "生口舌之事",
+    "original_text": "箱器：生口舌之事"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "镜明者",
+    "interpretation": "吉暗者凶",
+    "original_text": "镜明者：吉暗者凶"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "拾得镜者",
+    "interpretation": "招好妻",
+    "original_text": "拾得镜者：招好妻"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "将镜自照",
+    "interpretation": "远信至",
+    "original_text": "将镜自照：远信至"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "镜照他人",
+    "interpretation": "妻妾凶",
+    "original_text": "镜照他人：妻妾凶"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "得他人镜",
+    "interpretation": "有贵子",
+    "original_text": "得他人镜：有贵子"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "他人弄己镜",
+    "interpretation": "妻凶",
+    "original_text": "他人弄己镜：妻凶"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "镜破",
+    "interpretation": "主夫妇离别",
+    "original_text": "镜破：主夫妇离别"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "金钗动",
+    "interpretation": "有远行事",
+    "original_text": "金钗动：有远行事"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "金钿成双",
+    "interpretation": "增爱妾",
+    "original_text": "金钿成双：增爱妾"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "钗钏相敲",
+    "interpretation": "妻别凶",
+    "original_text": "钗钏相敲：妻别凶"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "金钗耀",
+    "interpretation": "主生贵子",
+    "original_text": "金钗耀：主生贵子"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "花钗",
+    "interpretation": "妻妾有奸妄",
+    "original_text": "花钗：妻妾有奸妄"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "银钗",
+    "interpretation": "夫妻主相殴",
+    "original_text": "银钗：夫妻主相殴"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "花压",
+    "interpretation": "妻妾生外心",
+    "original_text": "花压：妻妾生外心"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "人与梳蓖",
+    "interpretation": "得美妾",
+    "original_text": "人与梳蓖：得美妾"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "牙木梳",
+    "interpretation": "旧事尽去",
+    "original_text": "牙木梳：旧事尽去"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "见蓖子",
+    "interpretation": "贵子提携",
+    "original_text": "见蓖子：贵子提携"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "得蓖子者",
+    "interpretation": "美女至",
+    "original_text": "得蓖子者：美女至"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "刷牙者",
+    "interpretation": "病患不生",
+    "original_text": "刷牙者：病患不生"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "行胭脂粉",
+    "interpretation": "主生女",
+    "original_text": "行胭脂粉：主生女"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "见脂粉",
+    "interpretation": "主大财利",
+    "original_text": "见脂粉：主大财利"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "得粉扑",
+    "interpretation": "妻生桥女",
+    "original_text": "得粉扑：妻生桥女"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "手帕者",
+    "interpretation": "主口舌事",
+    "original_text": "手帕者：主口舌事"
+  },
+  {
+    "category": "镜环　钗钏　梳蓖",
+    "keyword": "得外线者",
+    "interpretation": "百事就",
+    "original_text": "得外线者：百事就"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "床帐改",
+    "interpretation": "主官迁移",
+    "original_text": "床帐改：主官迁移"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "舒展床帐",
+    "interpretation": "大富贵",
+    "original_text": "舒展床帐：大富贵"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "新安床帐",
+    "interpretation": "远人来",
+    "original_text": "新安床帐：远人来"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "床帐出门者",
+    "interpretation": "妻亡",
+    "original_text": "床帐出门者：妻亡"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "床帐改换",
+    "interpretation": "移居吉",
+    "original_text": "床帐改换：移居吉"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "床上有蚁",
+    "interpretation": "主不祥",
+    "original_text": "床上有蚁：主不祥"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "床帐破损",
+    "interpretation": "妻欲亡",
+    "original_text": "床帐破损：妻欲亡"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "开帐幔",
+    "interpretation": "主有酒食",
+    "original_text": "开帐幔：主有酒食"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "帐幔坏者",
+    "interpretation": "妻子病",
+    "original_text": "帐幔坏者：妻子病"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "床脚新换",
+    "interpretation": "奴仆凶",
+    "original_text": "床脚新换：奴仆凶"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "上床卧者",
+    "interpretation": "大凶恶",
+    "original_text": "上床卧者：大凶恶"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "血在床",
+    "interpretation": "妻妾有奸",
+    "original_text": "血在床：妻妾有奸"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "洗床收则",
+    "interpretation": "主大吉",
+    "original_text": "洗床收则：主大吉"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "荐席入吉",
+    "interpretation": "出则凶",
+    "original_text": "荐席入吉：出则凶"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "破席者",
+    "interpretation": "主失官位",
+    "original_text": "破席者：主失官位"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "换席入吉",
+    "interpretation": "出则凶",
+    "original_text": "换席入吉：出则凶"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "席箪者",
+    "interpretation": "主有力助",
+    "original_text": "席箪者：主有力助"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "毡褥铺陈",
+    "interpretation": "万事稳",
+    "original_text": "毡褥铺陈：万事稳"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "毁帘幔者",
+    "interpretation": "妻有奸",
+    "original_text": "毁帘幔者：妻有奸"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "新帘者",
+    "interpretation": "主得好妻",
+    "original_text": "新帘者：主得好妻"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "铺席合坐",
+    "interpretation": "得官位",
+    "original_text": "铺席合坐：得官位"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "好被自盖",
+    "interpretation": "主大吉",
+    "original_text": "好被自盖：主大吉"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "见好枕",
+    "interpretation": "有贵人扶",
+    "original_text": "见好枕：有贵人扶"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "见手帕",
+    "interpretation": "主有口舌",
+    "original_text": "见手帕：主有口舌"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "手巾缚布",
+    "interpretation": "病患至",
+    "original_text": "手巾缚布：病患至"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "毛扇忽持",
+    "interpretation": "官事吉",
+    "original_text": "毛扇忽持：官事吉"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "鼎鼐者",
+    "interpretation": "主得大财",
+    "original_text": "鼎鼐者：主得大财"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "釜溢者",
+    "interpretation": "主得大财",
+    "original_text": "釜溢者：主得大财"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "玉石器",
+    "interpretation": "主有人助",
+    "original_text": "玉石器：主有人助"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "铜铛者",
+    "interpretation": "生口舌至",
+    "original_text": "铜铛者：生口舌至"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "锅铁破",
+    "interpretation": "主丧事来",
+    "original_text": "锅铁破：主丧事来"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "裆盏被",
+    "interpretation": "主有恶事",
+    "original_text": "裆盏被：主有恶事"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "瓷碗者",
+    "interpretation": "主酒食至",
+    "original_text": "瓷碗者：主酒食至"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "瓷碟者",
+    "interpretation": "主口舌至",
+    "original_text": "瓷碟者：主口舌至"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "匙",
+    "interpretation": "主益妻妾子孙",
+    "original_text": "匙：主益妻妾子孙"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "筋",
+    "interpretation": "主益田宅奴仆",
+    "original_text": "筋：主益田宅奴仆"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "盆",
+    "interpretation": "主益仓库大吉",
+    "original_text": "盆：主益仓库大吉"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "掇盆脱底",
+    "interpretation": "主财散",
+    "original_text": "掇盆脱底：主财散"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "火盆瓮器",
+    "interpretation": "大富贵",
+    "original_text": "火盆瓮器：大富贵"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "洗面盆着",
+    "interpretation": "美妾至",
+    "original_text": "洗面盆着：美妾至"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "大小盆者",
+    "interpretation": "主团圆",
+    "original_text": "大小盆者：主团圆"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "得盒子者",
+    "interpretation": "所求得",
+    "original_text": "得盒子者：所求得"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "桶盛水者",
+    "interpretation": "主大吉",
+    "original_text": "桶盛水者：主大吉"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "桶无水者",
+    "interpretation": "主大凶",
+    "original_text": "桶无水者：主大凶"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "人送大桶",
+    "interpretation": "主得利",
+    "original_text": "人送大桶：主得利"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "桌架于宅",
+    "interpretation": "事不成",
+    "original_text": "桌架于宅：事不成"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "锯",
+    "interpretation": "主有断决之事",
+    "original_text": "锯：主有断决之事"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "碾衣石",
+    "interpretation": "移居大吉",
+    "original_text": "碾衣石：移居大吉"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "锤钻者",
+    "interpretation": "主侵害事",
+    "original_text": "锤钻者：主侵害事"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "锤欲举动",
+    "interpretation": "有人扶",
+    "original_text": "锤欲举动：有人扶"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "凿",
+    "interpretation": "主被人驱使吉",
+    "original_text": "凿：主被人驱使吉"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "熨斗盛火",
+    "interpretation": "好事成",
+    "original_text": "熨斗盛火：好事成"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "熏笼者",
+    "interpretation": "益增产业",
+    "original_text": "熏笼者：益增产业"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "人与秤者",
+    "interpretation": "主权位",
+    "original_text": "人与秤者：主权位"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "绳索",
+    "interpretation": "主长命大吉",
+    "original_text": "绳索：主长命大吉"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "绳索断者",
+    "interpretation": "主凶恶",
+    "original_text": "绳索断者：主凶恶"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "人与凿者",
+    "interpretation": "得抬金",
+    "original_text": "人与凿者：得抬金"
+  },
+  {
+    "category": "床帐　毡祷　匙筋",
+    "keyword": "人送帚者",
+    "interpretation": "主得位",
+    "original_text": "人送帚者：主得位"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "船飞行",
+    "interpretation": "主大富贵",
+    "original_text": "船飞行：主大富贵"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "船浅在岸",
+    "interpretation": "是非厄",
+    "original_text": "船浅在岸：是非厄"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "乘船渡江河",
+    "interpretation": "得官",
+    "original_text": "乘船渡江河：得官"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "船中有水",
+    "interpretation": "主得财",
+    "original_text": "船中有水：主得财"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "乘船看日月",
+    "interpretation": "得职",
+    "original_text": "乘船看日月：得职"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "乘船过日月",
+    "interpretation": "主宫",
+    "original_text": "乘船过日月：主宫"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "乘船饮酒",
+    "interpretation": "远客至",
+    "original_text": "乘船饮酒：远客至"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "与人同船",
+    "interpretation": "主移居",
+    "original_text": "与人同船：主移居"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "乘船风帆",
+    "interpretation": "大吉利",
+    "original_text": "乘船风帆：大吉利"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "乘船见航",
+    "interpretation": "主安稳",
+    "original_text": "乘船见航：主安稳"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "乘船桥下过",
+    "interpretation": "大吉",
+    "original_text": "乘船桥下过：大吉"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "病人乘船",
+    "interpretation": "必主死",
+    "original_text": "病人乘船：必主死"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "助人行船",
+    "interpretation": "官位至",
+    "original_text": "助人行船：官位至"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "身卧船中",
+    "interpretation": "主有凶",
+    "original_text": "身卧船中：主有凶"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "执火入船",
+    "interpretation": "主大吉",
+    "original_text": "执火入船：主大吉"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "家中乘船",
+    "interpretation": "主没财",
+    "original_text": "家中乘船：主没财"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "乘船看花",
+    "interpretation": "酒食至",
+    "original_text": "乘船看花：酒食至"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "船车破碎",
+    "interpretation": "主不详",
+    "original_text": "船车破碎：主不详"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "车轮破",
+    "interpretation": "夫妻相别",
+    "original_text": "车轮破：夫妻相别"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "车轮折倒",
+    "interpretation": "主破败",
+    "original_text": "车轮折倒：主破败"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "车载不起",
+    "interpretation": "厄事去",
+    "original_text": "车载不起：厄事去"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "骂车游行",
+    "interpretation": "禄位至",
+    "original_text": "骂车游行：禄位至"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "车行",
+    "interpretation": "主百事顺利",
+    "original_text": "车行：主百事顺利"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "车不行",
+    "interpretation": "所求不遂",
+    "original_text": "车不行：所求不遂"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "车入门",
+    "interpretation": "主有凶事",
+    "original_text": "车入门：主有凶事"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "病人上车",
+    "interpretation": "主大凶",
+    "original_text": "病人上车：主大凶"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "丧车过者",
+    "interpretation": "主灾散",
+    "original_text": "丧车过者：主灾散"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "行车白马",
+    "interpretation": "主大吉",
+    "original_text": "行车白马：主大吉"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "四马驾车",
+    "interpretation": "吉反凶",
+    "original_text": "四马驾车：吉反凶"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "以羊驾车",
+    "interpretation": "事不常",
+    "original_text": "以羊驾车：事不常"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "备马者",
+    "interpretation": "生远行事",
+    "original_text": "备马者：生远行事"
+  },
+  {
+    "category": "船车　游行　物价",
+    "keyword": "远行出入",
+    "interpretation": "命通达",
+    "original_text": "远行出入：命通达"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "见四通路",
+    "interpretation": "名利遂",
+    "original_text": "见四通路：名利遂"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "道中得财",
+    "interpretation": "主通达",
+    "original_text": "道中得财：主通达"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "道泥荆棘",
+    "interpretation": "事大成",
+    "original_text": "道泥荆棘：事大成"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "大道崩馅",
+    "interpretation": "主失财",
+    "original_text": "大道崩馅：主失财"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "修桥梁者",
+    "interpretation": "万事和",
+    "original_text": "修桥梁者：万事和"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "见流桥",
+    "interpretation": "主有官事",
+    "original_text": "见流桥：主有官事"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "桥上坐立",
+    "interpretation": "禄位至",
+    "original_text": "桥上坐立：禄位至"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "见桥坏",
+    "interpretation": "主有官事",
+    "original_text": "见桥坏：主有官事"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "携手上桥",
+    "interpretation": "妻有孕",
+    "original_text": "携手上桥：妻有孕"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "桥上呼唤",
+    "interpretation": "讼得理",
+    "original_text": "桥上呼唤：讼得理"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "新造桥者",
+    "interpretation": "大和合",
+    "original_text": "新造桥者：大和合"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "桥断者",
+    "interpretation": "主有口舌",
+    "original_text": "桥断者：主有口舌"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "桥柱折者",
+    "interpretation": "子孙凶",
+    "original_text": "桥柱折者：子孙凶"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "桥路上住车",
+    "interpretation": "皆凶",
+    "original_text": "桥路上住车：皆凶"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "夫妇入市",
+    "interpretation": "主置产",
+    "original_text": "夫妇入市：主置产"
+  },
+  {
+    "category": "道路　桥梁　集市",
+    "keyword": "见市中无人",
+    "interpretation": "主凶",
+    "original_text": "见市中无人：主凶"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "夫妇宴会",
+    "interpretation": "主相别",
+    "original_text": "夫妇宴会：主相别"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "夫妇相骂",
+    "interpretation": "主疾病",
+    "original_text": "夫妇相骂：主疾病"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "夫妻分钗",
+    "interpretation": "主离别",
+    "original_text": "夫妻分钗：主离别"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "夫妻相打",
+    "interpretation": "欲和会",
+    "original_text": "夫妻相打：欲和会"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "同妇人行",
+    "interpretation": "主失财",
+    "original_text": "同妇人行：主失财"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "抱妇人",
+    "interpretation": "主有喜事",
+    "original_text": "抱妇人：主有喜事"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "与妇人交",
+    "interpretation": "有邪崇",
+    "original_text": "与妇人交：有邪崇"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "与妇人共坐",
+    "interpretation": "大吉",
+    "original_text": "与妇人共坐：大吉"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "交接男子",
+    "interpretation": "主失财",
+    "original_text": "交接男子：主失财"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "妻着锦衣",
+    "interpretation": "生贵子",
+    "original_text": "妻着锦衣：生贵子"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "妻有争",
+    "interpretation": "主外私情",
+    "original_text": "妻有争：主外私情"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "见妇人阴",
+    "interpretation": "主口舌",
+    "original_text": "见妇人阴：主口舌"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "妇人赤身",
+    "interpretation": "主大吉",
+    "original_text": "妇人赤身：主大吉"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "男子裸体",
+    "interpretation": "命通达",
+    "original_text": "男子裸体：命通达"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "兄弟分别",
+    "interpretation": "口舌临",
+    "original_text": "兄弟分别：口舌临"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "抱小儿女",
+    "interpretation": "主口舌",
+    "original_text": "抱小儿女：主口舌"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "小儿死者",
+    "interpretation": "主口舌",
+    "original_text": "小儿死者：主口舌"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "新生男女",
+    "interpretation": "主大吉",
+    "original_text": "新生男女：主大吉"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "见嫁聚及孝",
+    "interpretation": "主凶",
+    "original_text": "见嫁聚及孝：主凶"
+  },
+  {
+    "category": "夫妻　产孕　交欢",
+    "keyword": "男子化为尼姑",
+    "interpretation": "凶",
+    "original_text": "男子化为尼姑：凶"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "人请饮酒",
+    "interpretation": "主长命",
+    "original_text": "人请饮酒：主长命"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "与人饮酒",
+    "interpretation": "有口舌",
+    "original_text": "与人饮酒：有口舌"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "与人吃会",
+    "interpretation": "富贵至",
+    "original_text": "与人吃会：富贵至"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "宴会客人家",
+    "interpretation": "欲破",
+    "original_text": "宴会客人家：欲破"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "饮酒者",
+    "interpretation": "主哭泣事",
+    "original_text": "饮酒者：主哭泣事"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "饮酒至醉",
+    "interpretation": "主疾病",
+    "original_text": "饮酒至醉：主疾病"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "贵人赐宴",
+    "interpretation": "主疾病",
+    "original_text": "贵人赐宴：主疾病"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "与贵人对饮",
+    "interpretation": "大吉",
+    "original_text": "与贵人对饮：大吉"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "人请吃酥酪",
+    "interpretation": "主喜",
+    "original_text": "人请吃酥酪：主喜"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "与人吃乳",
+    "interpretation": "尊亲至",
+    "original_text": "与人吃乳：尊亲至"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "与人吃蜜",
+    "interpretation": "大吉利",
+    "original_text": "与人吃蜜：大吉利"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "呕吐者",
+    "interpretation": "病人出痊",
+    "original_text": "呕吐者：病人出痊"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食水者",
+    "interpretation": "主很大利",
+    "original_text": "食水者：主很大利"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "死人食者",
+    "interpretation": "主疾病",
+    "original_text": "死人食者：主疾病"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食羊肉于堂上",
+    "interpretation": "吉",
+    "original_text": "食羊肉于堂上：吉"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食大肉",
+    "interpretation": "主有争讼",
+    "original_text": "食大肉：主有争讼"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食猪肉",
+    "interpretation": "主疾病至",
+    "original_text": "食猪肉：主疾病至"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "刀割猪肉",
+    "interpretation": "主生病",
+    "original_text": "刀割猪肉：主生病"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食生肉",
+    "interpretation": "凶熟肉吉",
+    "original_text": "食生肉：凶熟肉吉"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食自死肉",
+    "interpretation": "主别离",
+    "original_text": "食自死肉：主别离"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食鹅肉",
+    "interpretation": "主妾疾病",
+    "original_text": "食鹅肉：主妾疾病"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食鸡鸭等肉",
+    "interpretation": "皆吉",
+    "original_text": "食鸡鸭等肉：皆吉"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食馒头",
+    "interpretation": "主口舌散",
+    "original_text": "食馒头：主口舌散"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "见馒头未食",
+    "interpretation": "主气",
+    "original_text": "见馒头未食：主气"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食烂瓜",
+    "interpretation": "主生疾病",
+    "original_text": "食烂瓜：主生疾病"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食饼食饭",
+    "interpretation": "心不遂",
+    "original_text": "食饼食饭：心不遂"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食瓜子",
+    "interpretation": "主生贵子",
+    "original_text": "食瓜子：主生贵子"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食柿食柑",
+    "interpretation": "主疾病",
+    "original_text": "食柿食柑：主疾病"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食葡萄",
+    "interpretation": "离而复合",
+    "original_text": "食葡萄：离而复合"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食枣者",
+    "interpretation": "主生贵子",
+    "original_text": "食枣者：主生贵子"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食桑甚",
+    "interpretation": "主生贵子",
+    "original_text": "食桑甚：主生贵子"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食栗者",
+    "interpretation": "主有分别",
+    "original_text": "食栗者：主有分别"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食梨者",
+    "interpretation": "主失财帛",
+    "original_text": "食梨者：主失财帛"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食一初果者",
+    "interpretation": "凶至",
+    "original_text": "食一初果者：凶至"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食茄者",
+    "interpretation": "主妻有子",
+    "original_text": "食茄者：主妻有子"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食葱韭",
+    "interpretation": "主有争斗",
+    "original_text": "食葱韭：主有争斗"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食薤者",
+    "interpretation": "有重丧至",
+    "original_text": "食薤者：有重丧至"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食蒜者",
+    "interpretation": "有灾害事",
+    "original_text": "食蒜者：有灾害事"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食菜黄",
+    "interpretation": "主凶事至",
+    "original_text": "食菜黄：主凶事至"
+  },
+  {
+    "category": "饮食　酒肉　瓜果",
+    "keyword": "食油盐酱酸豉",
+    "interpretation": "吉",
+    "original_text": "食油盐酱酸豉：吉"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "冢墓高者",
+    "interpretation": "大吉利",
+    "original_text": "冢墓高者：大吉利"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "新冢棺郭",
+    "interpretation": "主忧除",
+    "original_text": "新冢棺郭：主忧除"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "冢墓上有云气",
+    "interpretation": "吉",
+    "original_text": "冢墓上有云气：吉"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "冢基门开",
+    "interpretation": "百事吉",
+    "original_text": "冢基门开：百事吉"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "冢墓上明",
+    "interpretation": "吉暗凶",
+    "original_text": "冢墓上明：吉暗凶"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "冢墓生树",
+    "interpretation": "吉折凶",
+    "original_text": "冢墓生树：吉折凶"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "冢墓上开花",
+    "interpretation": "大古",
+    "original_text": "冢墓上开花：大古"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "墓中棺自出",
+    "interpretation": "大吉",
+    "original_text": "墓中棺自出：大吉"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "将棺入宅",
+    "interpretation": "禄位至",
+    "original_text": "将棺入宅：禄位至"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "死人出棺",
+    "interpretation": "外客至",
+    "original_text": "死人出棺：外客至"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "开棺与死人言",
+    "interpretation": "凶",
+    "original_text": "开棺与死人言：凶"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "棺敛死人",
+    "interpretation": "主得财",
+    "original_text": "棺敛死人：主得财"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "升棺水上",
+    "interpretation": "大得财",
+    "original_text": "升棺水上：大得财"
+  },
+  {
+    "category": "冢墓　馆郭　迎送",
+    "keyword": "空野无人",
+    "interpretation": "主远行",
+    "original_text": "空野无人：主远行"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "各色经书",
+    "interpretation": "大富贵",
+    "original_text": "各色经书：大富贵"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "五色纸者",
+    "interpretation": "大益财",
+    "original_text": "五色纸者：大益财"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "吞五色纸",
+    "interpretation": "诗书进",
+    "original_text": "吞五色纸：诗书进"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "几上有书",
+    "interpretation": "禄位至",
+    "original_text": "几上有书：禄位至"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "读书文写字",
+    "interpretation": "大吉",
+    "original_text": "读书文写字：大吉"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "有人教书",
+    "interpretation": "大富贵",
+    "original_text": "有人教书：大富贵"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "见读书者",
+    "interpretation": "主聪明",
+    "original_text": "见读书者：主聪明"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "观人读书",
+    "interpretation": "生贵子",
+    "original_text": "观人读书：生贵子"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "得历日者",
+    "interpretation": "中黄甲",
+    "original_text": "得历日者：中黄甲"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "封书信者",
+    "interpretation": "主通达",
+    "original_text": "封书信者：主通达"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "手弄笔砚",
+    "interpretation": "主远信",
+    "original_text": "手弄笔砚：主远信"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "人与墨者",
+    "interpretation": "文章进",
+    "original_text": "人与墨者：文章进"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "人将已笔",
+    "interpretation": "文章退",
+    "original_text": "人将已笔：文章退"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "他人起笔",
+    "interpretation": "主财进",
+    "original_text": "他人起笔：主财进"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "君王队伍",
+    "interpretation": "有异名",
+    "original_text": "君王队伍：有异名"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "得大赦者",
+    "interpretation": "宅舍凶",
+    "original_text": "得大赦者：宅舍凶"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "就人卜易",
+    "interpretation": "主疾病",
+    "original_text": "就人卜易：主疾病"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "受人纸钱",
+    "interpretation": "主大吉",
+    "original_text": "受人纸钱：主大吉"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "公座移动",
+    "interpretation": "主迁官",
+    "original_text": "公座移动：主迁官"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "受职上官",
+    "interpretation": "财物来",
+    "original_text": "受职上官：财物来"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "佩印公爵",
+    "interpretation": "主大吉",
+    "original_text": "佩印公爵：主大吉"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "佩印执笏",
+    "interpretation": "主移居",
+    "original_text": "佩印执笏：主移居"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "佩印信者",
+    "interpretation": "名准出",
+    "original_text": "佩印信者：名准出"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "印绶改迁",
+    "interpretation": "生贵子",
+    "original_text": "印绶改迁：生贵子"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "棋子",
+    "interpretation": "主添丁进口",
+    "original_text": "棋子：主添丁进口"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "打球者",
+    "interpretation": "主得虚名",
+    "original_text": "打球者：主得虚名"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "兵马入城",
+    "interpretation": "福禄至",
+    "original_text": "兵马入城：福禄至"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "率众破贼",
+    "interpretation": "所求得",
+    "original_text": "率众破贼：所求得"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "见军兵败",
+    "interpretation": "主凶事",
+    "original_text": "见军兵败：主凶事"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "已射人",
+    "interpretation": "必主远行",
+    "original_text": "已射人：必主远行"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "人射已有",
+    "interpretation": "行人至",
+    "original_text": "人射已有：行人至"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "持弓夭者",
+    "interpretation": "主大吉",
+    "original_text": "持弓夭者：主大吉"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "挽弓弦断",
+    "interpretation": "主凶恶",
+    "original_text": "挽弓弦断：主凶恶"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "人送弓弩",
+    "interpretation": "得人力",
+    "original_text": "人送弓弩：得人力"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "弩弦难上",
+    "interpretation": "兄弟散",
+    "original_text": "弩弦难上：兄弟散"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "弓弩相斗",
+    "interpretation": "生争论",
+    "original_text": "弓弩相斗：生争论"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "戈铖有光",
+    "interpretation": "禄们至",
+    "original_text": "戈铖有光：禄们至"
+  },
+  {
+    "category": "文书　笔墨　兵器",
+    "keyword": "披甲杖剑",
+    "interpretation": "得高官",
+    "original_text": "披甲杖剑：得高官"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "与人哭泣",
+    "interpretation": "有庆贺",
+    "original_text": "与人哭泣：有庆贺"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "放声大哭",
+    "interpretation": "欢乐生",
+    "original_text": "放声大哭：欢乐生"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "身着孝服",
+    "interpretation": "官禄至",
+    "original_text": "身着孝服：官禄至"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "远人来悲泣",
+    "interpretation": "主凶",
+    "original_text": "远人来悲泣：主凶"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "床上哭泣",
+    "interpretation": "主大凶",
+    "original_text": "床上哭泣：主大凶"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "见歌舞者",
+    "interpretation": "口舌至",
+    "original_text": "见歌舞者：口舌至"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "家中欢喜",
+    "interpretation": "百事吉",
+    "original_text": "家中欢喜：百事吉"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "怀中琵琶",
+    "interpretation": "行人力",
+    "original_text": "怀中琵琶：行人力"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "他人与笛",
+    "interpretation": "有名声",
+    "original_text": "他人与笛：有名声"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "与人扣板",
+    "interpretation": "有口舌",
+    "original_text": "与人扣板：有口舌"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "堂上歌乐",
+    "interpretation": "主丧事",
+    "original_text": "堂上歌乐：主丧事"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "吹笙者",
+    "interpretation": "主有更欢",
+    "original_text": "吹笙者：主有更欢"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "吹笛打鼓",
+    "interpretation": "有吉庆",
+    "original_text": "吹笛打鼓：有吉庆"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "他人作乐",
+    "interpretation": "讼有理",
+    "original_text": "他人作乐：讼有理"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "露齿哭者",
+    "interpretation": "有争讼",
+    "original_text": "露齿哭者：有争讼"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "病卧为人扶",
+    "interpretation": "加官",
+    "original_text": "病卧为人扶：加官"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "病重者",
+    "interpretation": "主有凶事",
+    "original_text": "病重者：主有凶事"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "自疾病者",
+    "interpretation": "主有喜",
+    "original_text": "自疾病者：主有喜"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "病人歌唱",
+    "interpretation": "主大凶",
+    "original_text": "病人歌唱：主大凶"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "病人哭笑",
+    "interpretation": "疾病除",
+    "original_text": "病人哭笑：疾病除"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "病人起者",
+    "interpretation": "必定起",
+    "original_text": "病人起者：必定起"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "病人装车",
+    "interpretation": "必死亡",
+    "original_text": "病人装车：必死亡"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "死人哭泣",
+    "interpretation": "有口舌",
+    "original_text": "死人哭泣：有口舌"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "死人立者",
+    "interpretation": "主大凶",
+    "original_text": "死人立者：主大凶"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "死人哭坏者",
+    "interpretation": "得财",
+    "original_text": "死人哭坏者：得财"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "死人复活",
+    "interpretation": "主有信",
+    "original_text": "死人复活：主有信"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "见人死自死",
+    "interpretation": "皆吉",
+    "original_text": "见人死自死：皆吉"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "子死者",
+    "interpretation": "主添喜事",
+    "original_text": "子死者：主添喜事"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "见死亡尊长",
+    "interpretation": "大吉",
+    "original_text": "见死亡尊长：大吉"
+  },
+  {
+    "category": "哀乐　病死　歌唱",
+    "keyword": "门吊他人",
+    "interpretation": "主生子",
+    "original_text": "门吊他人：主生子"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "诸佛菩萨",
+    "interpretation": "大吉利",
+    "original_text": "诸佛菩萨：大吉利"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "法师登座",
+    "interpretation": "有疾病",
+    "original_text": "法师登座：有疾病"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "老君真人",
+    "interpretation": "皆主吉",
+    "original_text": "老君真人：皆主吉"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "画神佛者",
+    "interpretation": "得人钦",
+    "original_text": "画神佛者：得人钦"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "看神佛者",
+    "interpretation": "妻有子",
+    "original_text": "看神佛者：妻有子"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "佛共人言",
+    "interpretation": "有福助",
+    "original_text": "佛共人言：有福助"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "入神庙神动",
+    "interpretation": "大吉",
+    "original_text": "入神庙神动：大吉"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "道施盖者",
+    "interpretation": "大吉利",
+    "original_text": "道施盖者：大吉利"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "憎师教人念经",
+    "interpretation": "吉",
+    "original_text": "憎师教人念经：吉"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "道士女冠言语",
+    "interpretation": "吉",
+    "original_text": "道士女冠言语：吉"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "和尚尼姑",
+    "interpretation": "看以闷",
+    "original_text": "和尚尼姑：看以闷"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "被鬼神打",
+    "interpretation": "大不祥",
+    "original_text": "被鬼神打：大不祥"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "堂上神佛",
+    "interpretation": "大吉利",
+    "original_text": "堂上神佛：大吉利"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "神佛不成",
+    "interpretation": "行大凶",
+    "original_text": "神佛不成：行大凶"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "烧香礼拜",
+    "interpretation": "皆大吉",
+    "original_text": "烧香礼拜：皆大吉"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "迎神赛社",
+    "interpretation": "有外财",
+    "original_text": "迎神赛社：有外财"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "仙圣到家",
+    "interpretation": "福禄至",
+    "original_text": "仙圣到家：福禄至"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "与鬼斗者",
+    "interpretation": "主延寿",
+    "original_text": "与鬼斗者：主延寿"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "祭祀神道",
+    "interpretation": "大吉利",
+    "original_text": "祭祀神道：大吉利"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "身受戒行者",
+    "interpretation": "子孝",
+    "original_text": "身受戒行者：子孝"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "与神女通",
+    "interpretation": "得贵子",
+    "original_text": "与神女通：得贵子"
+  },
+  {
+    "category": "佛道　僧尼　鬼神",
+    "keyword": "与尼姑交",
+    "interpretation": "主失财",
+    "original_text": "与尼姑交：主失财"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "被人打害者",
+    "interpretation": "大吉",
+    "original_text": "被人打害者：大吉"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "杀死他人",
+    "interpretation": "人富贵",
+    "original_text": "杀死他人：人富贵"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "持刀自杀者",
+    "interpretation": "大吉",
+    "original_text": "持刀自杀者：大吉"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "杀人血污衣",
+    "interpretation": "得财",
+    "original_text": "杀人血污衣：得财"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "被刀刺尖",
+    "interpretation": "出快利",
+    "original_text": "被刀刺尖：出快利"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "持刀相杀",
+    "interpretation": "见血吉",
+    "original_text": "持刀相杀：见血吉"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "刀伤出血",
+    "interpretation": "主酒食",
+    "original_text": "刀伤出血：主酒食"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "砍刺见血",
+    "interpretation": "主大吉",
+    "original_text": "砍刺见血：主大吉"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "炙身见血流",
+    "interpretation": "大吉",
+    "original_text": "炙身见血流：大吉"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "刀斧自伤",
+    "interpretation": "主大吉",
+    "original_text": "刀斧自伤：主大吉"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "持刀砍人",
+    "interpretation": "自失力",
+    "original_text": "持刀砍人：自失力"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "被妻妾打者",
+    "interpretation": "主凶",
+    "original_text": "被妻妾打者：主凶"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "被人打者",
+    "interpretation": "主得力",
+    "original_text": "被人打者：主得力"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "女人相打",
+    "interpretation": "主病至",
+    "original_text": "女人相打：主病至"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "兄弟相打",
+    "interpretation": "大吉利",
+    "original_text": "兄弟相打：大吉利"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "家中人斗",
+    "interpretation": "主分散",
+    "original_text": "家中人斗：主分散"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "看见杀人",
+    "interpretation": "主大吉",
+    "original_text": "看见杀人：主大吉"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "被人签刺",
+    "interpretation": "大吉昌",
+    "original_text": "被人签刺：大吉昌"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "手指折者",
+    "interpretation": "主子病",
+    "original_text": "手指折者：主子病"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "向人叩头",
+    "interpretation": "百事吉",
+    "original_text": "向人叩头：百事吉"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "与人相骂者",
+    "interpretation": "主吉",
+    "original_text": "与人相骂者：主吉"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "被骂佯颠",
+    "interpretation": "大贵至",
+    "original_text": "被骂佯颠：大贵至"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "被人凌辱",
+    "interpretation": "主得财",
+    "original_text": "被人凌辱：主得财"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "杀猪者",
+    "interpretation": "大吉利",
+    "original_text": "杀猪者：大吉利"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "杀驴骡马",
+    "interpretation": "有酒食",
+    "original_text": "杀驴骡马：有酒食"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "杀龟者",
+    "interpretation": "主有丧事",
+    "original_text": "杀龟者：主有丧事"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "杀鸟雀",
+    "interpretation": "妻妾灾难",
+    "original_text": "杀鸟雀：妻妾灾难"
+  },
+  {
+    "category": "杀害　斗伤　打骂",
+    "keyword": "杀鸡鹅鸭",
+    "interpretation": "主大吉",
+    "original_text": "杀鸡鹅鸭：主大吉"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "牢狱崩坏",
+    "interpretation": "有赦吉",
+    "original_text": "牢狱崩坏：有赦吉"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "坐狱中",
+    "interpretation": "必有恩赦",
+    "original_text": "坐狱中：必有恩赦"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "入狱受灾",
+    "interpretation": "主荣贵",
+    "original_text": "入狱受灾：主荣贵"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "狱中死者",
+    "interpretation": "官事散",
+    "original_text": "狱中死者：官事散"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "使人入狱",
+    "interpretation": "得财吉",
+    "original_text": "使人入狱：得财吉"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "入牢狱",
+    "interpretation": "主有大贵",
+    "original_text": "入牢狱：主有大贵"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "盗曲自入狱",
+    "interpretation": "大凶",
+    "original_text": "盗曲自入狱：大凶"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "牢狱臭污",
+    "interpretation": "百事吉",
+    "original_text": "牢狱臭污：百事吉"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "罪人走脱",
+    "interpretation": "疾病去",
+    "original_text": "罪人走脱：疾病去"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "赶贼行见者",
+    "interpretation": "大吉",
+    "original_text": "赶贼行见者：大吉"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "枷锁临身",
+    "interpretation": "疾病至",
+    "original_text": "枷锁临身：疾病至"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "枷锁折损",
+    "interpretation": "口舌散",
+    "original_text": "枷锁折损：口舌散"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "枷锁入宅",
+    "interpretation": "主大凶",
+    "original_text": "枷锁入宅：主大凶"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "绳索系身",
+    "interpretation": "大吉利",
+    "original_text": "绳索系身：大吉利"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "身被罗网",
+    "interpretation": "主官事",
+    "original_text": "身被罗网：主官事"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "被罗网罩",
+    "interpretation": "主酒食",
+    "original_text": "被罗网罩：主酒食"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "被人疾罚",
+    "interpretation": "禄位至",
+    "original_text": "被人疾罚：禄位至"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "被人作贱者",
+    "interpretation": "大吉",
+    "original_text": "被人作贱者：大吉"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "被官打身",
+    "interpretation": "主孝服",
+    "original_text": "被官打身：主孝服"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "被人绑",
+    "interpretation": "主疾病至",
+    "original_text": "被人绑：主疾病至"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "自以杖决",
+    "interpretation": "耻辱生",
+    "original_text": "自以杖决：耻辱生"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "枷锁恐怖",
+    "interpretation": "主分散",
+    "original_text": "枷锁恐怖：主分散"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "邀人入官",
+    "interpretation": "主酒食",
+    "original_text": "邀人入官：主酒食"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "入官词议",
+    "interpretation": "主大吉",
+    "original_text": "入官词议：主大吉"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "吏引入司",
+    "interpretation": "大吉利",
+    "original_text": "吏引入司：大吉利"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "为吏所录",
+    "interpretation": "有急事",
+    "original_text": "为吏所录：有急事"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "贵人走马",
+    "interpretation": "官事明",
+    "original_text": "贵人走马：官事明"
+  },
+  {
+    "category": "扑禁　刑罚　狱具",
+    "keyword": "拷讯杖责",
+    "interpretation": "主大贵",
+    "original_text": "拷讯杖责：主大贵"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "田中生草",
+    "interpretation": "主得财",
+    "original_text": "田中生草：主得财"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "种田宽大",
+    "interpretation": "有禄位",
+    "original_text": "种田宽大：有禄位"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "自种田禾",
+    "interpretation": "主出行",
+    "original_text": "自种田禾：主出行"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "见种田者",
+    "interpretation": "禄位至",
+    "original_text": "见种田者：禄位至"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "教人耕种",
+    "interpretation": "远行至",
+    "original_text": "教人耕种：远行至"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "使人种田地",
+    "interpretation": "大吉",
+    "original_text": "使人种田地：大吉"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "买人田宅",
+    "interpretation": "主进职",
+    "original_text": "买人田宅：主进职"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "身在禾中",
+    "interpretation": "大吉利",
+    "original_text": "身在禾中：大吉利"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "破败田地",
+    "interpretation": "大吉利",
+    "original_text": "破败田地：大吉利"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "割收田禾",
+    "interpretation": "家已安",
+    "original_text": "割收田禾：家已安"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "屋上生禾",
+    "interpretation": "官位吉",
+    "original_text": "屋上生禾：官位吉"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "见禾丰熟",
+    "interpretation": "富贵长",
+    "original_text": "见禾丰熟：富贵长"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "见麦稻",
+    "interpretation": "主得大财",
+    "original_text": "见麦稻：主得大财"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "粳糯米者",
+    "interpretation": "有财吉",
+    "original_text": "粳糯米者：有财吉"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "五谷茂盛",
+    "interpretation": "主得财",
+    "original_text": "五谷茂盛：主得财"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "谷穗齐秀",
+    "interpretation": "大吉利",
+    "original_text": "谷穗齐秀：大吉利"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "米谷堆吉",
+    "interpretation": "散主凶",
+    "original_text": "米谷堆吉：散主凶"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "大小麦",
+    "interpretation": "主妻私心",
+    "original_text": "大小麦：主妻私心"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "大豆苗叶",
+    "interpretation": "子孙凶",
+    "original_text": "大豆苗叶：子孙凶"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "米麦相排",
+    "interpretation": "大吉利",
+    "original_text": "米麦相排：大吉利"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "坐卧米麦",
+    "interpretation": "大吉利",
+    "original_text": "坐卧米麦：大吉利"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "手中把谷",
+    "interpretation": "主福禄",
+    "original_text": "手中把谷：主福禄"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "得米谷者",
+    "interpretation": "主大吉",
+    "original_text": "得米谷者：主大吉"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "种菜",
+    "interpretation": "主长命大吉",
+    "original_text": "种菜：主长命大吉"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "得禾忽失",
+    "interpretation": "主得秩",
+    "original_text": "得禾忽失：主得秩"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "粟米",
+    "interpretation": "必有献物至",
+    "original_text": "粟米：必有献物至"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "荞麦面饼",
+    "interpretation": "官事至",
+    "original_text": "荞麦面饼：官事至"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "麸糠相交",
+    "interpretation": "家欲检",
+    "original_text": "麸糠相交：家欲检"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "酒曲",
+    "interpretation": "必主枉曲事",
+    "original_text": "酒曲：必主枉曲事"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "葫芦者",
+    "interpretation": "主恶事连",
+    "original_text": "葫芦者：主恶事连"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "麻丛身者",
+    "interpretation": "主病至",
+    "original_text": "麻丛身者：主病至"
+  },
+  {
+    "category": "田园　五谷　耕种",
+    "keyword": "麻生如林",
+    "interpretation": "大吉利",
+    "original_text": "麻生如林：大吉利"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "水上行者",
+    "interpretation": "主大吉",
+    "original_text": "水上行者：主大吉"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "水上立者",
+    "interpretation": "主凶事",
+    "original_text": "水上立者：主凶事"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "水流洋洋",
+    "interpretation": "有新婚",
+    "original_text": "水流洋洋：有新婚"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "水上火出",
+    "interpretation": "主大吉",
+    "original_text": "水上火出：主大吉"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "自在水中",
+    "interpretation": "大吉利",
+    "original_text": "自在水中：大吉利"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "自落水中",
+    "interpretation": "不出凶",
+    "original_text": "自落水中：不出凶"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "饮水不休",
+    "interpretation": "得大财",
+    "original_text": "饮水不休：得大财"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "流水绕身",
+    "interpretation": "有狱讼",
+    "original_text": "流水绕身：有狱讼"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "大水澄清",
+    "interpretation": "大吉祥",
+    "original_text": "大水澄清：大吉祥"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "人家有水",
+    "interpretation": "见子亡",
+    "original_text": "人家有水：见子亡"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "江海涨漫",
+    "interpretation": "大吉昌",
+    "original_text": "江海涨漫：大吉昌"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "河水砂石",
+    "interpretation": "益文章",
+    "original_text": "河水砂石：益文章"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "火烧日月",
+    "interpretation": "大人助",
+    "original_text": "火烧日月：大人助"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "火烧河水",
+    "interpretation": "长命吉",
+    "original_text": "火烧河水：长命吉"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "火烧山野",
+    "interpretation": "大显达",
+    "original_text": "火烧山野：大显达"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "火烧自是",
+    "interpretation": "主兴旺",
+    "original_text": "火烧自是：主兴旺"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "火焰炎炎",
+    "interpretation": "主发财",
+    "original_text": "火焰炎炎：主发财"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "火从地生",
+    "interpretation": "疾病至",
+    "original_text": "火从地生：疾病至"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "执火乘行",
+    "interpretation": "官位至",
+    "original_text": "执火乘行：官位至"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "大火烧天",
+    "interpretation": "主国安",
+    "original_text": "大火烧天：主国安"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "身在火中",
+    "interpretation": "贵人扶",
+    "original_text": "身在火中：贵人扶"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "火烟黑色",
+    "interpretation": "主疾病",
+    "original_text": "火烟黑色：主疾病"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "把火行路",
+    "interpretation": "不通达",
+    "original_text": "把火行路：不通达"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "把火烧井",
+    "interpretation": "主病至",
+    "original_text": "把火烧井：主病至"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "赶贼入市",
+    "interpretation": "不出凶",
+    "original_text": "赶贼入市：不出凶"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "强贼入宅",
+    "interpretation": "主家破",
+    "original_text": "强贼入宅：主家破"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "与贼同行",
+    "interpretation": "大吉利",
+    "original_text": "与贼同行：大吉利"
+  },
+  {
+    "category": "水火　盗贼　灯烛",
+    "keyword": "己身做喊",
+    "interpretation": "所求得",
+    "original_text": "己身做喊：所求得"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "屎尿污身",
+    "interpretation": "主得财",
+    "original_text": "屎尿污身：主得财"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "大使满地",
+    "interpretation": "主富贵",
+    "original_text": "大使满地：主富贵"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "患厕中",
+    "interpretation": "得官禄位",
+    "original_text": "患厕中：得官禄位"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "落厕出",
+    "interpretation": "吉不出凶",
+    "original_text": "落厕出：吉不出凶"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "厕屋上卧",
+    "interpretation": "主得财",
+    "original_text": "厕屋上卧：主得财"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "厕中干者",
+    "interpretation": "主家破",
+    "original_text": "厕中干者：主家破"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "架厕屋",
+    "interpretation": "主有财喜",
+    "original_text": "架厕屋：主有财喜"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "挑粪回家",
+    "interpretation": "大吉利",
+    "original_text": "挑粪回家：大吉利"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "在泥中",
+    "interpretation": "所求不成",
+    "original_text": "在泥中：所求不成"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "失大小便",
+    "interpretation": "主失财",
+    "original_text": "失大小便：主失财"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "泥污衣裳",
+    "interpretation": "主产凶",
+    "original_text": "泥污衣裳：主产凶"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "泥污衫衣",
+    "interpretation": "主身辱",
+    "original_text": "泥污衫衣：主身辱"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "男女沐浴",
+    "interpretation": "上床凶",
+    "original_text": "男女沐浴：上床凶"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "沐浴尘土",
+    "interpretation": "疾病安",
+    "original_text": "沐浴尘土：疾病安"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "洗头迁居",
+    "interpretation": "疾病除",
+    "original_text": "洗头迁居：疾病除"
+  },
+  {
+    "category": "污垢　沐浴　凌辱",
+    "keyword": "被辱骂",
+    "interpretation": "惹人词讼",
+    "original_text": "被辱骂：惹人词讼"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "乘龙入水",
+    "interpretation": "有贵位",
+    "original_text": "乘龙入水：有贵位"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "龙眠水中",
+    "interpretation": "求事通",
+    "original_text": "龙眠水中：求事通"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "龙当门者",
+    "interpretation": "大吉昌",
+    "original_text": "龙当门者：大吉昌"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "龙死亡",
+    "interpretation": "主失贵位",
+    "original_text": "龙死亡：主失贵位"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "乘龙上山",
+    "interpretation": "所求遂",
+    "original_text": "乘龙上山：所求遂"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "龙入井中",
+    "interpretation": "官被辱",
+    "original_text": "龙入井中：官被辱"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "龙飞",
+    "interpretation": "有官位大贵",
+    "original_text": "龙飞：有官位大贵"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "乘龙上市",
+    "interpretation": "主贵位",
+    "original_text": "乘龙上市：主贵位"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "龙蛇入门",
+    "interpretation": "主得财",
+    "original_text": "龙蛇入门：主得财"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "龙蛇入灶",
+    "interpretation": "有官至",
+    "original_text": "龙蛇入灶：有官至"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "蛇化龙行",
+    "interpretation": "贵人助",
+    "original_text": "蛇化龙行：贵人助"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "妇人见龙",
+    "interpretation": "生贵子",
+    "original_text": "妇人见龙：生贵子"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "龙蛇杀人",
+    "interpretation": "主大凶",
+    "original_text": "龙蛇杀人：主大凶"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "蛇咬人",
+    "interpretation": "主得大财",
+    "original_text": "蛇咬人：主得大财"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "蛇入怀中",
+    "interpretation": "生贵子",
+    "original_text": "蛇入怀中：生贵子"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "蛇行水内",
+    "interpretation": "主迁荣",
+    "original_text": "蛇行水内：主迁荣"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "蛇随人去",
+    "interpretation": "妻外心",
+    "original_text": "蛇随人去：妻外心"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "蛇入谷道",
+    "interpretation": "主口舌",
+    "original_text": "蛇入谷道：主口舌"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "蛇绕身者",
+    "interpretation": "生贵子",
+    "original_text": "蛇绕身者：生贵子"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "蛇多者",
+    "interpretation": "主阴司事",
+    "original_text": "蛇多者：主阴司事"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "蛇赤黑",
+    "interpretation": "主口舌吉",
+    "original_text": "蛇赤黑：主口舌吉"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "蛇黄白",
+    "interpretation": "主有官事",
+    "original_text": "蛇黄白：主有官事"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "凤凰",
+    "interpretation": "主有贵人助",
+    "original_text": "凤凰：主有贵人助"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "凤集拳上",
+    "interpretation": "母病到",
+    "original_text": "凤集拳上：母病到"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "孔雀者",
+    "interpretation": "主大吉利",
+    "original_text": "孔雀者：主大吉利"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鹤上天",
+    "interpretation": "主小口灾",
+    "original_text": "鹤上天：主小口灾"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鹤鸣着",
+    "interpretation": "禄位大显",
+    "original_text": "鹤鸣着：禄位大显"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鹤入怀中",
+    "interpretation": "生贵子",
+    "original_text": "鹤入怀中：生贵子"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鹤驾车",
+    "interpretation": "主征伐事",
+    "original_text": "鹤驾车：主征伐事"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "放鹤者",
+    "interpretation": "主得财吉",
+    "original_text": "放鹤者：主得财吉"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "孔雀飞舞",
+    "interpretation": "有文章",
+    "original_text": "孔雀飞舞：有文章"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鹦鹉妇人",
+    "interpretation": "主口舌",
+    "original_text": "鹦鹉妇人：主口舌"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鸳鸯散去",
+    "interpretation": "夫妻凶",
+    "original_text": "鸳鸯散去：夫妻凶"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "野鸭入宅",
+    "interpretation": "主有凶",
+    "original_text": "野鸭入宅：主有凶"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "驾鹞者",
+    "interpretation": "主禄位至",
+    "original_text": "驾鹞者：主禄位至"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鸠鸽者",
+    "interpretation": "妇人有喜",
+    "original_text": "鸠鸽者：妇人有喜"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "燕飞入怀",
+    "interpretation": "妻生子",
+    "original_text": "燕飞入怀：妻生子"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "燕子至",
+    "interpretation": "有远客来",
+    "original_text": "燕子至：有远客来"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "空中鸟鸣",
+    "interpretation": "主妻亡",
+    "original_text": "空中鸟鸣：主妻亡"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "飞鸟人怀",
+    "interpretation": "皆主吉",
+    "original_text": "飞鸟人怀：皆主吉"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "捉住飞鸟",
+    "interpretation": "远信至",
+    "original_text": "捉住飞鸟：远信至"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "雀相争斗",
+    "interpretation": "有官事",
+    "original_text": "雀相争斗：有官事"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鸦雀相噪",
+    "interpretation": "主酒食",
+    "original_text": "鸦雀相噪：主酒食"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鹅鸭同游",
+    "interpretation": "添好妾",
+    "original_text": "鹅鸭同游：添好妾"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鸟走蛇来",
+    "interpretation": "人引荐",
+    "original_text": "鸟走蛇来：人引荐"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "洗鸡得官",
+    "interpretation": "鸣口舌",
+    "original_text": "洗鸡得官：鸣口舌"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鸡抱卵",
+    "interpretation": "有大喜",
+    "original_text": "鸡抱卵：有大喜"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鸡在树上",
+    "interpretation": "主得财",
+    "original_text": "鸡在树上：主得财"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "麒麟者",
+    "interpretation": "名震天下",
+    "original_text": "麒麟者：名震天下"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "白象江猪",
+    "interpretation": "官位至",
+    "original_text": "白象江猪：官位至"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "獅子叫吼",
+    "interpretation": "场名震",
+    "original_text": "獅子叫吼：场名震"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "猛虎大吼",
+    "interpretation": "主得官",
+    "original_text": "猛虎大吼：主得官"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "骑虎行者",
+    "interpretation": "恶事无",
+    "original_text": "骑虎行者：恶事无"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "虎入宅中",
+    "interpretation": "官职重",
+    "original_text": "虎入宅中：官职重"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "虎狼不动",
+    "interpretation": "见官吉",
+    "original_text": "虎狼不动：见官吉"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "豺狼恶狗",
+    "interpretation": "有盗贼",
+    "original_text": "豺狼恶狗：有盗贼"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "狼啖脚者",
+    "interpretation": "主不行",
+    "original_text": "狼啖脚者：主不行"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "骆驼豹豸",
+    "interpretation": "得重印",
+    "original_text": "骆驼豹豸：得重印"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "熊罢",
+    "interpretation": "主身生贵子",
+    "original_text": "熊罢：主身生贵子"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "群免上天",
+    "interpretation": "得贵位",
+    "original_text": "群免上天：得贵位"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "獐鹿在家",
+    "interpretation": "益官禄",
+    "original_text": "獐鹿在家：益官禄"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "逐鬼在园",
+    "interpretation": "百忧去",
+    "original_text": "浩鬼在园：百忧去"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "猫捕鼠者",
+    "interpretation": "主得财",
+    "original_text": "猫捕鼠者：主得财"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "白鼠引路",
+    "interpretation": "人提携",
+    "original_text": "白鼠引路：人提携"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鼠咬人衣",
+    "interpretation": "所求得",
+    "original_text": "鼠咬人衣：所求得"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "鼠大走",
+    "interpretation": "主有善事",
+    "original_text": "鼠大走：主有善事"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "山猴",
+    "interpretation": "有争讼事端",
+    "original_text": "山猴：有争讼事端"
+  },
+  {
+    "category": "龙蛇　禽兽　等类",
+    "keyword": "白猿",
+    "interpretation": "主有禄位得",
+    "original_text": "白猿：主有禄位得"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "黄牛来家",
+    "interpretation": "大富贵",
+    "original_text": "黄牛来家：大富贵"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "水牛",
+    "interpretation": "主先祖索食",
+    "original_text": "水牛：主先祖索食"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "牛上同坡",
+    "interpretation": "大吉昌",
+    "original_text": "牛上同坡：大吉昌"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "牵牛上山",
+    "interpretation": "主富贵",
+    "original_text": "牵牛上山：主富贵"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "牛角有血",
+    "interpretation": "主三公",
+    "original_text": "牛角有血：主三公"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "牛触人心",
+    "interpretation": "事不成",
+    "original_text": "牛触人心：事不成"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "牛出门",
+    "interpretation": "好事立至",
+    "original_text": "牛出门：好事立至"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "水牛来家",
+    "interpretation": "主丧事",
+    "original_text": "水牛来家：主丧事"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "牛主犊",
+    "interpretation": "所求皆得",
+    "original_text": "牛主犊：所求皆得"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "骑牛入城",
+    "interpretation": "有喜临",
+    "original_text": "骑牛入城：有喜临"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "牵牛羊来家",
+    "interpretation": "欢乐",
+    "original_text": "牵牛羊来家：欢乐"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "驱马庭前",
+    "interpretation": "凶事散",
+    "original_text": "马舞庭前：凶事散"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "马行千里",
+    "interpretation": "大喜至",
+    "original_text": "马行千里：大喜至"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "乘马快",
+    "interpretation": "喜饨主凶",
+    "original_text": "乘马快：喜饨主凶"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "走马来往",
+    "interpretation": "文书事",
+    "original_text": "走马来往：文书事"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "马入室",
+    "interpretation": "主奸情事",
+    "original_text": "马入室：主奸情事"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "乌蛇践物",
+    "interpretation": "失禄位",
+    "original_text": "乌蛇践物：失禄位"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "披洗夜马",
+    "interpretation": "皆喜事",
+    "original_text": "披洗夜马：皆喜事"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "群马奔统",
+    "interpretation": "百凶解",
+    "original_text": "群马奔统：百凶解"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "罪人走马",
+    "interpretation": "厄事会",
+    "original_text": "罪人走马：厄事会"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "乘白马者",
+    "interpretation": "主疾病",
+    "original_text": "乘白马者：主疾病"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "被马咬",
+    "interpretation": "有禄位至",
+    "original_text": "被马咬：有禄位至"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "骑驴骡",
+    "interpretation": "主得财吉",
+    "original_text": "骑驴骡：主得财吉"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "杀猪吉",
+    "interpretation": "猪自死凶",
+    "original_text": "杀猪吉：猪自死凶"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "猪豚变人",
+    "interpretation": "官事至",
+    "original_text": "猪豚变人：官事至"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "猪羊搔痒",
+    "interpretation": "有口舌",
+    "original_text": "猪羊搔痒：有口舌"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "羊做豚行",
+    "interpretation": "行人至",
+    "original_text": "羊做豚行：行人至"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "骑羊上街",
+    "interpretation": "主得财",
+    "original_text": "骑羊上街：主得财"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "子母羊",
+    "interpretation": "益命大吉",
+    "original_text": "子母羊：益命大吉"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "犬吠人",
+    "interpretation": "鬼来求食",
+    "original_text": "犬吠人：鬼来求食"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "犬咬主人",
+    "interpretation": "失财凶",
+    "original_text": "犬咬主人：失财凶"
+  },
+  {
+    "category": "牛马　猪羊　六畜",
+    "keyword": "屋中生马",
+    "interpretation": "主大吉",
+    "original_text": "屋中生马：主大吉"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "龟入井宅",
+    "interpretation": "富贵至",
+    "original_text": "龟入井宅：富贵至"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "龟蛇相同",
+    "interpretation": "主生财",
+    "original_text": "龟蛇相同：主生财"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "见龟者",
+    "interpretation": "主女人贵",
+    "original_text": "见龟者：主女人贵"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "捉龟者",
+    "interpretation": "主丧事至",
+    "original_text": "捉龟者：主丧事至"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "见鳖者",
+    "interpretation": "主有得财",
+    "original_text": "见鳖者：主有得财"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "鱼飞水上",
+    "interpretation": "百事散",
+    "original_text": "鱼飞水上：百事散"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "井内有鱼",
+    "interpretation": "迁官至",
+    "original_text": "井内有鱼：迁官至"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "张网捕鱼",
+    "interpretation": "大吉利",
+    "original_text": "张网捕鱼：大吉利"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "人捕鱼作食",
+    "interpretation": "皆吉",
+    "original_text": "人捕鱼作食：皆吉"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "抢鱼拾鱼",
+    "interpretation": "主小疾",
+    "original_text": "抢鱼拾鱼：主小疾"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "水中钓鱼",
+    "interpretation": "大吉利",
+    "original_text": "水中钓鱼：大吉利"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "林中鱼猪",
+    "interpretation": "事无成",
+    "original_text": "林中鱼猪：事无成"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "群鱼游水",
+    "interpretation": "主有财",
+    "original_text": "群鱼游水：主有财"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "鲤鱼",
+    "interpretation": "妻有孕大吉",
+    "original_text": "鲤鱼：妻有孕大吉"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "大鱼扬动",
+    "interpretation": "主声名",
+    "original_text": "大鱼扬动：主声名"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "小鱼生子",
+    "interpretation": "大吉利",
+    "original_text": "小鱼生子：大吉利"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "干鱼下水",
+    "interpretation": "命复通",
+    "original_text": "干鱼下水：命复通"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "虾变鱼",
+    "interpretation": "主失财物",
+    "original_text": "虾变鱼：主失财物"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "身坐鱼虫",
+    "interpretation": "病患除",
+    "original_text": "身坐鱼虫：病患除"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "螃蟹",
+    "interpretation": "主百病消散",
+    "original_text": "螃蟹：主百病消散"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "蛤蟆鸣走",
+    "interpretation": "有口舌",
+    "original_text": "蛤蟆鸣走：有口舌"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "水蛭",
+    "interpretation": "主女人失财",
+    "original_text": "水蛭：主女人失财"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "螺狮",
+    "interpretation": "生在外不利",
+    "original_text": "螺狮：生在外不利"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "蛤蜊",
+    "interpretation": "主老来生子",
+    "original_text": "蛤蜊：主老来生子"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "飞娥入灯",
+    "interpretation": "他人败",
+    "original_text": "飞娥入灯：他人败"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "蚕飞不茧",
+    "interpretation": "主小吉",
+    "original_text": "蚕飞不茧：主小吉"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "峰蜈交戏",
+    "interpretation": "事不成",
+    "original_text": "峰蜈交戏：事不成"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "峰螫人脚",
+    "interpretation": "有财喜",
+    "original_text": "峰螫人脚：有财喜"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "恙螂作堆",
+    "interpretation": "主失财",
+    "original_text": "恙螂作堆：主失财"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "蜻蜓对飞",
+    "interpretation": "美人来",
+    "original_text": "蜻蜓对飞：美人来"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "促织声繁",
+    "interpretation": "有小吉",
+    "original_text": "促织声繁：有小吉"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "蝙蝠群飞",
+    "interpretation": "明事良",
+    "original_text": "蝙蝠群飞：明事良"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "蝇污人衣",
+    "interpretation": "必有谗",
+    "original_text": "蝇污人衣：必有谗"
+  },
+  {
+    "category": "龟鳖　鱼虾　昆虫",
+    "keyword": "蝼蛄",
+    "interpretation": "主有不明事",
+    "original_text": "蝼蛄：主有不明事"
+  }
+]
